@@ -1,0 +1,1021 @@
+booking_date,airline,route,cabin_class,market,sales_channel,trip_type,tickets_sold,revenue_eur,load_factor_pct
+2023-10-17,Turkish Airlines,AMS-MAD,Economy,Germany,Online Travel Agent,Return,21,1112.0,52.8
+2022-04-25,Turkish Airlines,AMS-FRA,Economy,Germany,Corporate,One Way,13,3777.0,82.6
+2022-01-26,Ryanair,AMS-CDG,Economy,Germany,GDS,Return,21,3735.0,84.2
+2022-10-09,Emirates,AMS-JFK,Business,Netherlands,GDS,Return,8,2067.0,93.9
+2022-09-08,British Airways,AMS-IST,Business,Netherlands,Corporate,Return,46,12734.0,
+2022-08-17,Ryanair,AMS-FRA,Economy,Netherlands,Corporate,Return,40,3956.0,90.6
+2022-05-23,Lufthansa,AMS-JFK,Economy,Netherlands,Corporate,Return,46,,70.6
+2022-04-15,SAS,AMS-LHR,Economy,Netherlands,Online Travel Agent,One Way,7,3161.0,76.7
+2023-11-24,EasyJet,AMS-BCN,Business,Netherlands,GDS,Return,23,982.0,77.4
+2023-07-13,Air France,AMS-FRA,Economy,Spain,Online Travel Agent,Return,44,1882.0,87.5
+2022-03-31,British Airways,AMS-FCO,Economy,Germany,GDS,One Way,32,1071.0,
+2023-08-28,Vueling,AMS-MAD,Economy,Turkey,Direct,One Way,11,2179.0,82.5
+2023-03-09,Emirates,AMS-CDG,Economy,Spain,GDS,Return,22,2458.0,70.7
+2022-02-02,EasyJet,AMS-CPH,Economy,Turkey,GDS,Return,22,1148.0,86.0
+2022-01-31,Air France,AMS-BCN,Business,Netherlands,Direct,Return,43,15710.0,97.5
+2022-04-06,Vueling,AMS-JFK,Economy,UK,GDS,One Way,25,3258.0,51.6
+2022-08-12,British Airways,AMS-CPH,Economy,Germany,Direct,Return,22,5003.0,97.7
+2022-08-27,Ryanair,AMS-IST,Economy,Italy,GDS,One Way,28,3136.0,45.2
+2023-06-02,SAS,AMS-FCO,Economy,France,Direct,Return,29,755.0,40.1
+2023-09-09,Emirates,AMS-MAD,Economy,France,Online Travel Agent,One Way,13,1527.0,42.6
+2022-01-28,EasyJet,AMS-FCO,Economy,Turkey,GDS,Return,18,3132.0,59.8
+2023-07-29,EasyJet,AMS-IST,Economy,UK,Online Travel Agent,Return,2,2576.0,76.7
+2022-07-23,Ryanair,AMS-FRA,Economy,,GDS,One Way,29,,44.0
+28/10/2023,KLM,AMS-LHR,First,Turkey,Direct,Return,21,7195.0,40.3
+2023-12-20,Turkish Airlines,AMS-MAD,Business,Turkey,Online Travel Agent,Return,15,5425.0,94.4
+2023-07-13,SAS,AMS-JFK,Economy,Netherlands,GDS,Return,27,341.0,87.7
+2023-03-06,EasyJet,AMS-CPH,First,Germany,GDS,Return,31,17642.0,86.9
+2022-08-14,EasyJet,AMS-CDG,First,Netherlands,GDS,Return,15,19961.0,91.3
+2023-04-05,Emirates,AMS-BCN,Economy,Turkey,Online Travel Agent,One Way,23,4545.0,80.6
+2023-08-27,EasyJet,AMS-CPH,Economy,Spain,Online Travel Agent,Return,24,2157.0,46.1
+2022-10-12,Emirates,AMS-CPH,Economy,Netherlands,GDS,One Way,44,1694.0,63.1
+2022-01-07,Lufthansa,AMS-LHR,Business,,Online Travel Agent,Return,13,5301.0,81.9
+2022-06-13,Ryanair,AMS-FCO,Economy,Germany,GDS,Return,22,,56.3
+16/12/2023,Ryanair,AMS-FRA,Economy,Netherlands,GDS,One Way,43,4214.0,79.9
+2023-03-09,Vueling,AMS-BCN,,Italy,GDS,One Way,37,14668.0,41.4
+2022-12-15,Lufthansa,AMS-MAD,Economy,Netherlands,Corporate,Return,33,880.0,57.8
+2022-10-12,Ryanair,AMS-JFK,Economy,Germany,Online Travel Agent,One Way,3,,71.8
+2022-06-09,KLM,AMS-LHR,Economy,Turkey,Corporate,Return,19,3122.0,76.7
+2022-08-09,SAS,AMS-FRA,Economy,Netherlands,GDS,One Way,23,942.0,73.5
+2022-12-11,Lufthansa,AMS-JFK,Economy,Turkey,Corporate,Return,29,2195.0,80.5
+2022-04-15,KLM,AMS-MAD,Economy,Germany,Online Travel Agent,Return,30,2176.0,40.4
+2022-04-05,British Airways,AMS-DXB,Economy,Netherlands,GDS,Return,39,409.0,45.9
+2023-01-25,Lufthansa,AMS-FCO,Economy,Netherlands,GDS,One Way,44,1870.0,90.4
+2022-04-10,Ryanair,AMS-JFK,Business,UK,Corporate,Return,47,9555.0,79.5
+2023-01-03,Turkish Airlines,AMS-FCO,Economy,Spain,GDS,Return,25,3077.0,46.6
+2022-12-19,EasyJet,AMS-IST,Economy,Italy,GDS,Return,37,1780.0,88.8
+2023-09-11,SAS,AMS-CDG,Economy,Germany,Corporate,Return,47,1424.0,54.0
+2022-09-28,Vueling,AMS-CPH,Business,Netherlands,Direct,Return,8,9512.0,67.7
+2022-02-14,EasyJet,AMS-IST,Business,Germany,GDS,Return,42,3092.0,48.4
+2023-04-16,KLM,AMS-FRA,Economy,UK,Direct,Return,16,4557.0,81.2
+2023-07-04,Lufthansa,AMS-LHR,Economy,Turkey,Direct,Return,8,,
+2022-05-08,Air France,AMS-FCO,Economy,Spain,Corporate,Return,1,,52.2
+2023-01-23,British Airways,AMS-FRA,Economy,France,GDS,One Way,44,2013.0,90.1
+2022-03-22,Ryanair,AMS-MAD,First,Turkey,GDS,Return,5,12102.0,63.3
+2023-07-20,Emirates,AMS-BCN,Economy,UK,Direct,One Way,3,,57.0
+2022-10-28,British Airways,AMS-BCN,Economy,Netherlands,GDS,One Way,1,2663.0,48.8
+2023-10-06,Lufthansa,AMS-CPH,First,Germany,GDS,Return,4,8294.0,55.4
+2023-09-26,SAS,AMS-LHR,Economy,Netherlands,GDS,One Way,40,3434.0,41.3
+2023-01-06,British Airways,AMS-DXB,Economy,Netherlands,GDS,Return,35,3121.0,73.8
+2023-08-15,British Airways,AMS-BCN,Economy,,GDS,Return,32,3821.0,88.8
+2022-07-16,EasyJet,AMS-IST,Economy,Spain,Online Travel Agent,Return,42,1945.0,71.8
+2023-12-23,EasyJet,AMS-CDG,Economy,France,GDS,Return,34,4437.0,52.7
+2022-03-13,Ryanair,AMS-JFK,Business,France,Corporate,One Way,43,1288.0,42.0
+2022-02-16,Ryanair,AMS-FRA,Economy,Netherlands,Direct,Return,25,5000.0,52.4
+2023-11-09,Ryanair,AMS-FCO,Business,Netherlands,Online Travel Agent,Return,10,5533.0,64.1
+2022-08-22,Lufthansa,AMS-LHR,Economy,Netherlands,Online Travel Agent,One Way,21,1226.0,84.1
+2022-10-24,Air France,AMS-CPH,Economy,France,Corporate,Return,46,,50.9
+2022-03-23,Emirates,AMS-IST,Business,Germany,Corporate,Return,39,14088.0,81.7
+2022-08-27,Air France,AMS-LHR,Economy,Netherlands,Online Travel Agent,Return,27,3489.0,90.3
+2022-04-14,SAS,AMS-CPH,Economy,UK,GDS,One Way,27,1466.0,66.3
+2023-01-25,Air France,AMS-BCN,Economy,Germany,Direct,Return,2,1222.0,87.6
+2022-10-12,Air France,AMS-JFK,First,France,GDS,Return,41,3533.0,72.2
+2023-04-10,Air France,AMS-IST,Economy,France,GDS,Return,48,1163.0,77.0
+2023-10-13,EasyJet,AMS-MAD,Economy,Spain,Corporate,One Way,13,1226.0,70.5
+2023-01-09,British Airways,AMS-CPH,Economy,France,Online Travel Agent,Return,9,3720.0,66.9
+2022-06-16,British Airways,AMS-LHR,Economy,UK,GDS,One Way,36,612.0,53.6
+2023-01-15,SAS,AMS-LHR,Economy,Netherlands,GDS,Return,22,670.0,57.6
+2022-12-30,EasyJet,AMS-CDG,Economy,Turkey,Corporate,One Way,42,1929.0,56.8
+2022-08-03,Air France,AMS-BCN,First,Netherlands,Online Travel Agent,Return,26,28430.0,72.7
+2023-11-18,Lufthansa,AMS-LHR,Business,Spain,Online Travel Agent,One Way,12,852.0,47.0
+2022-10-01,Ryanair,AMS-JFK,Economy,Netherlands,GDS,One Way,17,2970.0,93.2
+2023-12-20,British Airways,AMS-FCO,Economy,Netherlands,GDS,Return,14,2514.0,81.8
+2023-12-01,SAS,AMS-CPH,Business,Spain,GDS,Return,14,8788.0,63.3
+2023-10-26,Vueling,AMS-FRA,Economy,Germany,Corporate,Return,34,1908.0,49.2
+2022-03-15,SAS,AMS-FRA,Business,Netherlands,Corporate,Return,20,1771.0,91.2
+2023-09-16,Vueling,AMS-MAD,Economy,UK,GDS,One Way,11,3897.0,
+2023-10-13,Air France,AMS-BCN,Economy,Germany,Direct,Return,16,4496.0,81.9
+2022-06-25,Air France,AMS-IST,Business,Germany,GDS,One Way,31,11271.0,55.7
+2023-07-01,EasyJet,AMS-IST,First,Netherlands,GDS,Return,6,16177.0,63.3
+2022-09-08,British Airways,AMS-MAD,Economy,Netherlands,Direct,One Way,19,2779.0,46.0
+2022-06-17,Turkish Airlines,AMS-FRA,Economy,Spain,Online Travel Agent,Return,37,342.0,
+2023-04-19,Air France,AMS-LHR,Economy,Germany,Corporate,One Way,4,2991.0,85.4
+2023-01-24,Turkish Airlines,AMS-FRA,Business,Turkey,GDS,One Way,47,13049.0,81.5
+2022-10-04,Air France,AMS-IST,Economy,Netherlands,Online Travel Agent,One Way,4,2900.0,74.4
+2023-10-18,Emirates,AMS-JFK,Business,UK,Direct,Return,20,10384.0,92.0
+2023-12-06,SAS,AMS-CDG,Business,Turkey,GDS,Return,10,3172.0,73.8
+2023-07-25,Ryanair,AMS-CDG,Economy,Spain,Corporate,One Way,24,2924.0,67.1
+2022-08-13,Lufthansa,AMS-FCO,Business,UK,Corporate,Return,35,9180.0,59.7
+2023-12-03,Ryanair,AMS-FCO,Economy,Netherlands,GDS,Return,26,2009.0,94.5
+2022-11-29,Emirates,AMS-JFK,Business,Turkey,Corporate,Return,37,8338.0,44.8
+2022-02-27,Air France,AMS-CPH,Economy,France,Corporate,One Way,38,4477.0,94.0
+2022-08-23,Ryanair,AMS-FRA,Business,France,GDS,Return,21,3569.0,87.9
+2022-02-02,Emirates,AMS-MAD,Economy,Netherlands,Direct,Return,40,660.0,47.5
+2022-11-20,Ryanair,AMS-FRA,Economy,Netherlands,Corporate,Return,39,5553.0,72.8
+2023-02-15,KLM,AMS-CDG,Economy,France,GDS,Return,21,934.0,90.3
+2022-10-02,Turkish Airlines,AMS-CDG,First,Germany,GDS,Return,10,23518.0,73.2
+2022-03-09,EasyJet,AMS-DXB,Economy,Turkey,Corporate,One Way,38,450.0,92.6
+2022-08-05,Lufthansa,AMS-BCN,Economy,Netherlands,Online Travel Agent,Return,46,1393.0,94.7
+2023-08-04,EasyJet,AMS-DXB,Economy,UK,Online Travel Agent,Return,4,1206.0,64.5
+2022-11-19,KLM,AMS-LHR,Economy,Italy,Corporate,One Way,45,2914.0,61.9
+2022-08-06,Emirates,AMS-BCN,Economy,Netherlands,Direct,Return,20,889.0,94.3
+2023-11-03,SAS,AMS-MAD,Economy,Germany,Direct,One Way,17,4780.0,79.2
+2023-05-27,Turkish Airlines,AMS-LHR,,France,Direct,Return,7,2043.0,46.7
+2023-02-10,SAS,AMS-FRA,Economy,Germany,Corporate,One Way,4,,42.5
+2023-10-21,Vueling,AMS-MAD,Economy,Netherlands,Corporate,One Way,29,3299.0,72.7
+2023-04-15,Turkish Airlines,AMS-JFK,Economy,Netherlands,Corporate,Return,14,5714.0,93.9
+2022-05-27,Lufthansa,AMS-DXB,Economy,Italy,GDS,Return,3,,89.0
+2022-09-29,SAS,AMS-FRA,Economy,Netherlands,Online Travel Agent,Return,24,1909.0,79.2
+23/05/2022,British Airways,AMS-CPH,Business,Netherlands,GDS,Return,37,9571.0,48.1
+2022-09-10,Ryanair,AMS-LHR,Economy,Spain,GDS,Return,16,3410.0,54.7
+2023-07-29,SAS,AMS-FCO,Business,Italy,Online Travel Agent,One Way,4,7329.0,90.8
+2023-07-06,KLM,AMS-FCO,Business,Italy,Online Travel Agent,Return,24,9987.0,50.6
+2022-09-27,Emirates,AMS-IST,Business,Turkey,GDS,Return,34,6137.0,56.1
+2023-08-22,Emirates,AMS-FRA,Economy,Turkey,Direct,One Way,30,3853.0,47.5
+2023-03-15,EasyJet,AMS-FCO,Economy,Germany,GDS,One Way,18,2493.0,79.2
+2023-08-21,SAS,AMS-BCN,Business,Germany,GDS,Return,19,12047.0,94.8
+2023-02-13,SAS,AMS-CDG,First,Netherlands,Online Travel Agent,Return,31,9281.0,55.6
+2023-01-06,Lufthansa,AMS-LHR,Economy,Netherlands,GDS,One Way,19,2045.0,67.6
+2022-08-13,Vueling,AMS-BCN,Economy,Netherlands,Online Travel Agent,One Way,49,1752.0,76.8
+2022-05-22,Lufthansa,AMS-CPH,Economy,UK,Direct,Return,46,1668.0,98.0
+2023-06-06,SAS,AMS-CDG,Economy,Germany,Direct,One Way,19,,46.1
+2023-05-21,SAS,AMS-BCN,Business,Netherlands,Online Travel Agent,Return,22,10919.0,68.9
+2022-04-04,British Airways,AMS-MAD,Business,Netherlands,Online Travel Agent,Return,24,,62.3
+2022-02-18,Turkish Airlines,AMS-DXB,Economy,UK,GDS,Return,45,,90.2
+2022-04-23,SAS,AMS-DXB,Economy,Netherlands,Corporate,One Way,12,3514.0,67.6
+2022-06-06,SAS,AMS-JFK,Economy,France,Direct,Return,30,2302.0,46.4
+2023-10-05,SAS,AMS-FRA,Business,Italy,GDS,One Way,38,5277.0,76.8
+2022-06-13,Vueling,AMS-BCN,Economy,Netherlands,GDS,Return,31,729.0,84.7
+2023-11-28,KLM,AMS-LHR,Economy,Germany,GDS,Return,36,4159.0,40.2
+09/03/2023,Emirates,AMS-LHR,Economy,France,Online Travel Agent,Return,19,4270.0,89.8
+2023-09-03,Lufthansa,AMS-CPH,Economy,Netherlands,GDS,Return,48,4433.0,50.8
+2022-03-07,SAS,AMS-FCO,First,,GDS,One Way,45,,72.0
+30/01/2023,Air France,AMS-CDG,Economy,France,Direct,One Way,36,963.0,64.1
+2023-01-26,SAS,AMS-CPH,Economy,Netherlands,Online Travel Agent,Return,30,2365.0,81.7
+2023-09-03,Emirates,AMS-BCN,Economy,Netherlands,Corporate,One Way,49,3676.0,61.5
+2023-04-25,Turkish Airlines,AMS-MAD,Business,Germany,Online Travel Agent,One Way,33,9873.0,90.4
+2023-06-26,SAS,AMS-LHR,,Netherlands,GDS,Return,18,6016.0,82.4
+2022-09-15,Vueling,AMS-FCO,Business,Netherlands,Corporate,Return,49,11598.0,77.6
+2023-07-21,Turkish Airlines,AMS-CDG,Economy,Netherlands,Corporate,Return,28,4183.0,86.2
+2022-01-12,Lufthansa,AMS-JFK,Economy,UK,Corporate,One Way,47,2265.0,
+2023-11-28,Lufthansa,AMS-BCN,Business,Germany,Direct,Return,11,15883.0,42.1
+2022-04-28,Lufthansa,AMS-MAD,Business,Italy,GDS,Return,45,4718.0,62.9
+2023-11-30,Turkish Airlines,AMS-LHR,Business,Netherlands,Direct,One Way,33,,94.0
+2023-07-04,Air France,AMS-DXB,Economy,UK,GDS,Return,17,4247.0,47.3
+2022-10-01,Lufthansa,AMS-CDG,Economy,Italy,Direct,Return,6,1943.0,82.8
+2023-10-19,EasyJet,AMS-FRA,Economy,Germany,GDS,One Way,4,4197.0,96.5
+2022-12-15,EasyJet,AMS-CDG,Business,Netherlands,Online Travel Agent,Return,20,,43.0
+2022-04-25,Emirates,AMS-FRA,First,Netherlands,GDS,Return,48,21478.0,79.6
+2022-10-28,EasyJet,AMS-BCN,Business,France,GDS,Return,47,2202.0,67.2
+2023-03-22,Lufthansa,AMS-LHR,Economy,Netherlands,Online Travel Agent,Return,27,2443.0,73.6
+2022-06-11,Vueling,AMS-DXB,Economy,France,Online Travel Agent,One Way,15,,44.9
+2023-04-10,Vueling,AMS-FRA,Economy,Italy,Direct,One Way,6,5047.0,42.5
+2022-01-04,Vueling,AMS-FRA,Business,Italy,Direct,One Way,47,3128.0,78.7
+2022-09-27,Emirates,AMS-FCO,Economy,Netherlands,Corporate,One Way,14,3398.0,87.8
+2023-05-28,KLM,AMS-JFK,Economy,Germany,Online Travel Agent,One Way,11,1617.0,85.4
+2022-07-02,Ryanair,AMS-LHR,Business,Netherlands,Direct,One Way,39,9756.0,71.5
+2023-06-04,Lufthansa,AMS-FRA,Economy,Italy,Direct,One Way,9,1695.0,45.8
+2022-04-19,Lufthansa,AMS-CDG,Business,Netherlands,Online Travel Agent,Return,26,9417.0,79.9
+2023-10-03,British Airways,AMS-CDG,Economy,Netherlands,GDS,One Way,16,389.0,54.0
+2022-11-02,Air France,AMS-BCN,Economy,Netherlands,Corporate,One Way,5,3863.0,92.8
+2023-10-17,Air France,AMS-JFK,Economy,Germany,Direct,One Way,10,4851.0,88.6
+2023-06-04,Air France,AMS-DXB,Economy,Netherlands,GDS,Return,3,3859.0,81.1
+2023-09-16,EasyJet,AMS-BCN,Economy,France,Online Travel Agent,Return,13,948.0,95.0
+2022-07-23,SAS,AMS-IST,Business,Germany,Direct,One Way,43,,41.8
+2022-06-06,British Airways,AMS-CPH,Economy,France,Direct,One Way,49,2673.0,82.7
+2023-01-18,EasyJet,AMS-IST,Economy,Italy,Online Travel Agent,Return,30,3319.0,59.2
+2022-06-15,KLM,AMS-MAD,Business,France,GDS,Return,45,1126.0,92.6
+2023-07-07,Ryanair,AMS-JFK,Economy,Germany,GDS,Return,6,2181.0,55.5
+2023-06-28,Ryanair,AMS-FCO,Economy,Turkey,GDS,One Way,17,3753.0,82.0
+2022-01-01,KLM,AMS-CPH,Business,Germany,GDS,Return,45,2797.0,
+2023-09-06,Lufthansa,AMS-JFK,Economy,Spain,Online Travel Agent,One Way,19,3514.0,42.4
+2022-11-28,British Airways,AMS-MAD,Economy,Netherlands,Direct,One Way,42,1315.0,63.1
+2023-05-16,Turkish Airlines,AMS-CDG,Economy,Netherlands,Direct,Return,35,4310.0,84.2
+2022-01-20,Emirates,AMS-MAD,Economy,Spain,Online Travel Agent,Return,46,3701.0,66.4
+25/04/2022,Vueling,AMS-FRA,Economy,UK,GDS,One Way,26,3040.0,55.5
+2023-01-07,EasyJet,AMS-BCN,Business,Netherlands,Direct,Return,5,6073.0,52.7
+2022-11-11,British Airways,AMS-IST,Business,Germany,GDS,Return,29,2743.0,47.6
+2022-09-03,Lufthansa,AMS-LHR,Economy,Germany,Online Travel Agent,One Way,37,3297.0,89.7
+2022-03-01,SAS,AMS-CPH,Economy,Netherlands,Direct,Return,20,1581.0,73.4
+2022-09-04,Air France,AMS-JFK,,,Online Travel Agent,Return,49,2122.0,44.4
+2023-08-04,Ryanair,AMS-IST,Economy,UK,GDS,Return,21,398.0,62.2
+2022-03-22,Air France,AMS-CPH,Economy,Italy,Online Travel Agent,One Way,10,3306.0,61.3
+2022-03-29,Lufthansa,AMS-CPH,Economy,Spain,Corporate,Return,5,3063.0,50.5
+2023-05-13,Lufthansa,AMS-CDG,Economy,France,Online Travel Agent,Return,36,2313.0,65.3
+2022-03-12,EasyJet,AMS-DXB,Economy,Netherlands,GDS,Return,6,1634.0,59.3
+2023-06-30,Ryanair,AMS-FRA,Business,Germany,Direct,Return,26,1804.0,59.8
+2022-05-09,Turkish Airlines,AMS-BCN,,Germany,Direct,Return,4,3028.0,82.9
+2022-05-12,Emirates,AMS-CPH,Economy,Netherlands,GDS,Return,39,,52.9
+2023-11-07,Turkish Airlines,AMS-LHR,Economy,Turkey,Direct,One Way,39,2140.0,77.2
+2023-05-02,Emirates,AMS-CPH,Economy,UK,Online Travel Agent,Return,35,2507.0,73.1
+2023-07-17,Ryanair,AMS-FRA,Economy,Turkey,GDS,One Way,1,4052.0,72.9
+2022-06-19,Air France,AMS-BCN,Economy,UK,Direct,Return,24,1672.0,
+2022-09-29,Air France,AMS-IST,First,Germany,GDS,Return,36,20837.0,71.8
+2023-06-25,EasyJet,AMS-MAD,Economy,Netherlands,Online Travel Agent,Return,6,3540.0,91.0
+2023-09-14,Vueling,AMS-BCN,First,Netherlands,Corporate,One Way,41,,79.2
+2023-03-10,KLM,AMS-BCN,Economy,Germany,Online Travel Agent,One Way,46,747.0,71.7
+2022-08-05,Turkish Airlines,AMS-CDG,Economy,Netherlands,Online Travel Agent,Return,44,,88.1
+2023-07-07,EasyJet,AMS-JFK,Economy,Netherlands,GDS,Return,31,3215.0,75.2
+2023-12-08,KLM,AMS-BCN,Economy,Netherlands,GDS,One Way,20,2101.0,56.9
+2022-07-25,Emirates,AMS-DXB,Business,Netherlands,Direct,Return,24,11875.0,52.0
+2024-01-01,KLM,AMS-CPH,Economy,Italy,GDS,One Way,25,5189.0,48.8
+2022-11-16,Emirates,AMS-LHR,Economy,Netherlands,Direct,One Way,36,2650.0,92.2
+2023-02-13,Emirates,AMS-IST,,Germany,GDS,Return,21,4233.0,81.2
+2023-11-19,Emirates,AMS-CPH,Business,Germany,Online Travel Agent,Return,30,6218.0,94.4
+2023-10-28,Lufthansa,AMS-JFK,Economy,Netherlands,Direct,Return,24,3845.0,75.0
+2023-01-18,British Airways,AMS-JFK,Business,Turkey,Corporate,One Way,44,6132.0,67.5
+2023-03-25,Emirates,AMS-CDG,Economy,Netherlands,GDS,Return,42,2542.0,43.5
+2023-06-14,Lufthansa,AMS-CPH,Economy,UK,GDS,One Way,30,1233.0,79.0
+2023-04-08,Air France,AMS-BCN,Economy,Germany,Online Travel Agent,One Way,22,5470.0,73.8
+04/05/2022,Emirates,AMS-FCO,Economy,Spain,Corporate,Return,28,2773.0,97.4
+2022-09-11,KLM,AMS-MAD,Economy,Italy,Direct,Return,7,1599.0,53.9
+2022-08-19,Emirates,AMS-FCO,Business,Netherlands,Online Travel Agent,Return,35,12027.0,70.8
+2022-03-07,Vueling,AMS-LHR,Economy,Germany,GDS,Return,28,4183.0,77.8
+2022-12-13,Turkish Airlines,AMS-FRA,Business,Netherlands,Corporate,One Way,14,17319.0,77.4
+2022-01-22,Emirates,AMS-FRA,Economy,UK,GDS,Return,10,2068.0,72.6
+2023-08-26,Turkish Airlines,AMS-JFK,Business,Netherlands,Online Travel Agent,Return,16,4459.0,85.1
+2023-07-22,KLM,AMS-LHR,Economy,UK,Direct,Return,16,4554.0,51.9
+2022-08-24,Turkish Airlines,AMS-CPH,Economy,Italy,GDS,One Way,31,4918.0,82.1
+2023-08-26,Vueling,AMS-FRA,Economy,Germany,Online Travel Agent,Return,42,522.0,75.9
+2022-08-14,EasyJet,AMS-CDG,Economy,Netherlands,Direct,Return,25,3519.0,92.0
+08/01/2022,British Airways,AMS-IST,Business,Italy,Online Travel Agent,Return,13,9606.0,89.1
+2022-03-14,Vueling,AMS-CPH,Economy,Germany,GDS,One Way,6,356.0,58.3
+2023-12-26,EasyJet,AMS-BCN,Economy,Netherlands,GDS,Return,44,2633.0,56.0
+2023-10-09,Emirates,AMS-MAD,Business,Italy,GDS,Return,9,,96.9
+2022-03-02,KLM,AMS-LHR,Economy,Germany,Online Travel Agent,Return,45,4450.0,70.6
+23/08/2022,British Airways,AMS-JFK,Economy,Germany,GDS,Return,36,4514.0,92.6
+2022-03-11,KLM,AMS-CPH,Economy,France,Direct,One Way,43,2738.0,49.5
+2022-02-02,SAS,AMS-IST,First,Germany,Corporate,Return,20,23329.0,
+2022-12-05,SAS,AMS-BCN,Economy,Netherlands,Direct,Return,18,3384.0,87.0
+2022-03-14,KLM,AMS-BCN,Business,Netherlands,GDS,Return,43,,94.9
+2023-06-11,SAS,AMS-CPH,Business,Netherlands,Corporate,Return,21,12207.0,59.6
+2022-09-01,KLM,AMS-MAD,,France,GDS,One Way,4,293.0,82.0
+2022-10-13,Turkish Airlines,AMS-CPH,Business,Netherlands,Direct,Return,33,16654.0,71.3
+2023-11-17,EasyJet,AMS-MAD,Economy,Netherlands,Direct,One Way,27,1695.0,43.5
+2023-05-13,EasyJet,AMS-CDG,Business,Netherlands,Direct,One Way,7,14072.0,80.0
+2022-08-08,SAS,AMS-MAD,Business,UK,GDS,Return,6,5449.0,80.0
+2023-07-07,Ryanair,AMS-CDG,Economy,Netherlands,Online Travel Agent,Return,15,1257.0,94.0
+2022-05-16,Turkish Airlines,AMS-CDG,Economy,Netherlands,GDS,Return,18,4730.0,68.8
+2023-08-08,SAS,AMS-CPH,First,Spain,Direct,One Way,32,30762.0,53.4
+2023-08-14,British Airways,AMS-IST,Economy,UK,Online Travel Agent,Return,11,3337.0,42.6
+2023-04-30,Vueling,AMS-CPH,First,Germany,Direct,Return,20,15921.0,64.1
+2022-09-06,SAS,AMS-DXB,Business,Germany,Online Travel Agent,One Way,24,14352.0,
+2023-04-30,British Airways,AMS-CDG,Business,Netherlands,GDS,Return,15,3449.0,84.1
+2023-02-21,Ryanair,AMS-CPH,First,Netherlands,GDS,Return,48,34266.0,
+2022-07-14,Ryanair,AMS-DXB,First,Italy,Online Travel Agent,Return,7,25353.0,95.0
+2022-04-07,Emirates,AMS-CPH,Business,Netherlands,GDS,Return,21,3680.0,95.8
+2022-04-10,Ryanair,AMS-IST,Economy,Netherlands,Corporate,Return,42,1986.0,76.0
+2023-11-06,British Airways,AMS-FRA,Business,France,Online Travel Agent,Return,26,11989.0,93.9
+2023-03-18,Lufthansa,AMS-JFK,Economy,Netherlands,Online Travel Agent,One Way,44,620.0,84.1
+2022-12-29,Emirates,AMS-CDG,Economy,France,GDS,One Way,14,3109.0,71.7
+2023-03-10,Emirates,AMS-MAD,Economy,Netherlands,Corporate,Return,37,4065.0,50.5
+25/02/2023,EasyJet,AMS-DXB,Economy,France,GDS,Return,21,417.0,66.6
+2023-04-24,Air France,AMS-CDG,Economy,Netherlands,Direct,One Way,18,1108.0,72.5
+25/02/2022,KLM,AMS-IST,Economy,Netherlands,GDS,Return,5,4316.0,90.1
+2023-11-21,KLM,AMS-CPH,Business,Netherlands,Online Travel Agent,Return,3,9709.0,67.9
+2023-11-01,Air France,AMS-CPH,Business,Turkey,Online Travel Agent,One Way,23,2490.0,92.1
+2023-10-24,Ryanair,AMS-MAD,Economy,France,Online Travel Agent,Return,26,5651.0,79.1
+2022-04-11,Emirates,AMS-CPH,Economy,France,Direct,Return,37,3942.0,47.9
+2022-03-04,Emirates,AMS-CPH,Economy,Netherlands,Online Travel Agent,One Way,24,3092.0,97.7
+2023-02-17,Vueling,AMS-LHR,Business,,GDS,One Way,49,759.0,70.6
+2022-12-14,Air France,AMS-DXB,Economy,UK,Direct,One Way,19,1578.0,62.7
+2022-04-22,British Airways,AMS-CPH,Business,Netherlands,Direct,Return,25,6584.0,78.2
+2022-09-12,Air France,AMS-CPH,Economy,Netherlands,Corporate,Return,21,2454.0,46.3
+2022-07-16,SAS,AMS-FRA,Economy,Germany,GDS,Return,12,,76.9
+2022-07-14,EasyJet,AMS-JFK,Business,Turkey,GDS,Return,41,11787.0,68.9
+2023-07-04,Lufthansa,AMS-CPH,Business,Italy,GDS,Return,33,6797.0,63.6
+2023-04-05,Vueling,AMS-CDG,Economy,Netherlands,GDS,Return,4,,95.3
+2022-05-24,Turkish Airlines,AMS-IST,Economy,Italy,GDS,Return,42,2994.0,70.3
+2023-03-09,EasyJet,AMS-FRA,Economy,France,Direct,Return,7,3054.0,52.7
+2022-07-07,Vueling,AMS-CPH,Business,Spain,Direct,One Way,22,1740.0,66.6
+2022-10-13,KLM,AMS-CDG,Economy,Spain,GDS,One Way,33,5355.0,93.3
+2023-04-19,Air France,AMS-BCN,Economy,Netherlands,GDS,One Way,17,664.0,50.2
+2022-09-13,Lufthansa,AMS-LHR,Economy,UK,Online Travel Agent,Return,24,3886.0,52.4
+2022-03-19,KLM,AMS-IST,Business,Netherlands,GDS,One Way,34,2714.0,40.8
+2023-03-30,Emirates,AMS-DXB,Economy,UK,Direct,Return,28,1556.0,40.8
+2023-07-18,EasyJet,AMS-BCN,Economy,Netherlands,Direct,Return,43,401.0,88.1
+2022-04-11,KLM,AMS-FCO,Economy,Germany,Online Travel Agent,Return,41,2662.0,82.5
+2022-02-21,EasyJet,AMS-FRA,Business,France,Online Travel Agent,Return,39,3601.0,60.6
+2023-10-30,Turkish Airlines,AMS-FRA,Business,Netherlands,GDS,Return,22,10913.0,80.5
+2023-07-08,Air France,AMS-LHR,,Netherlands,Online Travel Agent,Return,49,,
+2022-01-16,Air France,AMS-FRA,Business,Netherlands,Online Travel Agent,Return,17,10670.0,95.3
+2022-04-06,Vueling,AMS-CDG,Economy,Netherlands,Corporate,One Way,34,4123.0,96.1
+2022-08-31,KLM,AMS-LHR,Economy,Italy,Direct,Return,6,293.0,62.8
+2022-06-20,Emirates,AMS-MAD,Economy,Germany,Online Travel Agent,Return,46,1954.0,89.5
+2023-02-21,Air France,AMS-IST,Economy,Germany,Corporate,Return,6,,84.8
+2023-05-13,Vueling,AMS-CPH,Economy,Netherlands,Corporate,One Way,34,717.0,58.0
+2023-05-08,EasyJet,AMS-BCN,First,Netherlands,GDS,One Way,1,11256.0,53.5
+2022-08-07,British Airways,AMS-FCO,Economy,Germany,Online Travel Agent,One Way,10,3437.0,66.6
+2023-02-15,Emirates,AMS-MAD,Economy,France,GDS,Return,21,3422.0,85.3
+2022-03-02,Ryanair,AMS-JFK,Economy,Netherlands,Direct,One Way,5,5312.0,95.7
+2022-06-18,British Airways,AMS-CDG,First,Spain,Corporate,One Way,2,,84.3
+2023-01-24,British Airways,AMS-FCO,Business,Germany,GDS,One Way,22,10723.0,89.6
+2022-01-03,Lufthansa,AMS-BCN,Economy,Netherlands,GDS,Return,48,2234.0,75.0
+2023-02-04,Ryanair,AMS-DXB,Economy,Germany,Direct,Return,2,3164.0,88.5
+2022-09-29,Air France,AMS-DXB,Economy,Netherlands,Direct,Return,10,407.0,85.5
+2023-04-11,British Airways,AMS-CDG,First,France,Online Travel Agent,One Way,34,13171.0,61.9
+2022-10-20,KLM,AMS-LHR,Economy,Spain,Direct,Return,16,1814.0,
+2023-03-10,SAS,AMS-BCN,Economy,Italy,GDS,Return,48,3794.0,86.7
+2023-12-15,Vueling,AMS-FRA,Economy,Spain,Online Travel Agent,Return,39,1144.0,42.7
+2023-07-24,SAS,AMS-MAD,Economy,France,Online Travel Agent,Return,22,2701.0,86.9
+2023-11-09,Ryanair,AMS-CPH,Business,Germany,Corporate,One Way,12,13929.0,50.3
+2023-05-14,Turkish Airlines,AMS-LHR,Economy,Netherlands,GDS,One Way,24,,69.9
+2022-06-08,Turkish Airlines,AMS-CDG,Economy,Netherlands,GDS,Return,47,665.0,86.9
+2022-07-14,SAS,AMS-MAD,Economy,Germany,Online Travel Agent,Return,40,1790.0,54.7
+2022-10-31,SAS,AMS-IST,Economy,Netherlands,GDS,Return,38,2213.0,54.3
+2022-08-11,Ryanair,AMS-JFK,Economy,Spain,Online Travel Agent,Return,10,673.0,63.4
+2022-03-01,EasyJet,AMS-BCN,Business,Spain,Online Travel Agent,Return,35,9676.0,91.9
+2023-08-17,British Airways,AMS-LHR,Economy,Netherlands,Corporate,One Way,49,3665.0,40.0
+2023-07-10,Turkish Airlines,AMS-JFK,Economy,France,Direct,Return,32,,92.3
+2022-03-04,Lufthansa,AMS-DXB,Economy,UK,GDS,Return,7,3467.0,48.9
+2022-11-18,British Airways,AMS-FCO,Economy,Spain,Direct,One Way,21,2895.0,
+2022-02-28,EasyJet,AMS-LHR,Business,UK,Online Travel Agent,Return,20,,95.4
+2022-02-21,Turkish Airlines,AMS-CPH,Economy,Netherlands,GDS,Return,26,4288.0,68.7
+2023-08-22,Vueling,AMS-CDG,Economy,Netherlands,GDS,One Way,4,2342.0,69.7
+2023-05-04,British Airways,AMS-BCN,Business,Germany,GDS,Return,46,,67.9
+2023-05-30,EasyJet,AMS-CDG,Economy,Netherlands,Online Travel Agent,Return,22,1551.0,76.9
+2023-06-28,Vueling,AMS-CDG,,Italy,GDS,Return,15,2845.0,45.3
+2022-06-11,SAS,AMS-FRA,Business,Netherlands,Direct,One Way,40,5706.0,41.9
+2022-02-28,Emirates,AMS-CDG,Economy,Italy,GDS,Return,21,1159.0,43.3
+2023-06-05,SAS,AMS-DXB,Business,Germany,GDS,One Way,15,14544.0,65.8
+2022-03-24,Emirates,AMS-IST,Economy,Netherlands,Online Travel Agent,One Way,22,3422.0,56.0
+2022-07-10,Lufthansa,AMS-IST,Economy,,GDS,One Way,28,4399.0,76.1
+2022-03-12,Air France,AMS-FRA,Economy,Spain,Online Travel Agent,One Way,14,912.0,97.6
+2023-09-02,Air France,AMS-FRA,Economy,France,Online Travel Agent,Return,27,2999.0,62.4
+2022-03-11,Ryanair,AMS-FRA,Economy,Netherlands,GDS,Return,41,1494.0,73.3
+2023-11-23,SAS,AMS-LHR,Economy,Netherlands,GDS,Return,40,,
+2022-08-29,Vueling,AMS-JFK,Economy,UK,GDS,Return,28,4924.0,89.1
+2023-02-18,KLM,AMS-BCN,,UK,GDS,Return,26,10011.0,92.3
+2022-05-03,EasyJet,AMS-CDG,Economy,Netherlands,Online Travel Agent,Return,49,,90.9
+2023-08-07,Lufthansa,AMS-MAD,,Netherlands,Corporate,Return,2,,96.5
+2022-09-10,Air France,AMS-FCO,Economy,Netherlands,Online Travel Agent,One Way,25,3975.0,41.6
+2023-08-16,Ryanair,AMS-FRA,Economy,UK,Online Travel Agent,Return,3,3479.0,88.7
+2023-09-01,Ryanair,AMS-DXB,Business,Netherlands,Direct,One Way,8,598.0,83.6
+10/02/2022,Vueling,AMS-DXB,Economy,Italy,Online Travel Agent,Return,44,1139.0,53.3
+2023-09-27,Lufthansa,AMS-CDG,Business,Germany,Corporate,Return,33,3707.0,95.5
+2022-03-25,EasyJet,AMS-LHR,Economy,Netherlands,Direct,Return,42,4139.0,
+2023-03-06,EasyJet,AMS-CDG,Business,Netherlands,GDS,One Way,35,11313.0,79.4
+2023-11-05,Emirates,AMS-FRA,Economy,UK,Online Travel Agent,Return,6,5264.0,53.0
+2023-08-21,Turkish Airlines,AMS-LHR,Economy,Spain,Direct,Return,39,792.0,65.0
+2023-08-02,Vueling,AMS-BCN,Economy,Germany,Online Travel Agent,Return,23,2134.0,81.7
+2023-06-20,British Airways,AMS-MAD,Business,Spain,Online Travel Agent,Return,25,5087.0,72.7
+2022-11-20,SAS,AMS-MAD,Economy,Germany,GDS,Return,43,3963.0,64.8
+2022-09-25,KLM,AMS-FCO,Business,Netherlands,Online Travel Agent,One Way,19,826.0,
+2022-07-29,SAS,AMS-DXB,Business,France,GDS,Return,5,3051.0,88.7
+2023-11-17,SAS,AMS-LHR,Economy,Netherlands,Direct,One Way,11,4563.0,48.3
+2022-11-18,Lufthansa,AMS-JFK,Economy,Netherlands,GDS,Return,12,1319.0,64.9
+2022-09-02,SAS,AMS-CDG,First,Netherlands,Online Travel Agent,One Way,10,6439.0,92.4
+2022-09-29,Turkish Airlines,AMS-BCN,Economy,UK,Online Travel Agent,Return,8,319.0,89.1
+2023-02-10,Air France,AMS-MAD,Economy,UK,Corporate,One Way,24,3434.0,63.3
+2022-05-15,Ryanair,AMS-FCO,Economy,Italy,GDS,One Way,28,1241.0,84.3
+19/11/2023,Air France,AMS-FRA,Economy,,Corporate,One Way,41,2420.0,87.7
+2023-10-23,SAS,AMS-FCO,Economy,UK,GDS,One Way,36,,91.6
+2022-11-04,Emirates,AMS-FRA,Business,Germany,GDS,One Way,37,4988.0,71.6
+2023-04-14,EasyJet,AMS-FRA,Economy,UK,Corporate,Return,21,1092.0,51.9
+2022-11-20,British Airways,AMS-LHR,Economy,Netherlands,Online Travel Agent,Return,8,,54.8
+2022-03-16,Emirates,AMS-IST,Economy,Netherlands,Online Travel Agent,One Way,9,843.0,57.2
+2022-01-10,British Airways,AMS-DXB,Economy,Germany,Direct,Return,47,2477.0,74.4
+2023-04-15,Air France,AMS-LHR,Economy,Netherlands,GDS,Return,15,829.0,41.9
+2023-09-29,Emirates,AMS-MAD,Economy,France,Direct,One Way,48,,76.9
+2023-07-31,Turkish Airlines,AMS-JFK,Economy,UK,Corporate,One Way,46,5466.0,61.1
+2022-04-13,KLM,AMS-CPH,Economy,,Online Travel Agent,Return,40,4201.0,57.1
+2022-03-17,SAS,AMS-JFK,First,Netherlands,Online Travel Agent,Return,18,28285.0,91.0
+2023-07-05,Turkish Airlines,AMS-JFK,Economy,Turkey,GDS,One Way,42,4883.0,66.7
+2022-08-07,Vueling,AMS-BCN,Economy,Netherlands,GDS,One Way,20,1544.0,45.5
+2023-06-03,SAS,AMS-BCN,Economy,Netherlands,Direct,One Way,6,724.0,88.0
+2022-09-29,British Airways,AMS-FCO,Economy,Netherlands,Direct,One Way,12,2717.0,42.8
+2022-05-16,Turkish Airlines,AMS-JFK,Business,Turkey,GDS,Return,2,11028.0,82.2
+2022-12-24,Emirates,AMS-BCN,Business,Germany,Direct,Return,7,11747.0,84.9
+2022-03-12,Air France,AMS-FCO,Economy,,Corporate,Return,16,2155.0,60.5
+2022-09-08,Lufthansa,AMS-BCN,Business,Netherlands,GDS,Return,3,12073.0,
+2023-01-14,Air France,AMS-FCO,Business,,GDS,One Way,45,9053.0,69.9
+2022-10-19,SAS,AMS-LHR,Economy,Netherlands,GDS,Return,3,3515.0,66.9
+2022-06-11,Emirates,AMS-CPH,Economy,,Online Travel Agent,One Way,27,4318.0,42.6
+2023-03-25,Turkish Airlines,AMS-IST,Economy,Turkey,Online Travel Agent,Return,43,1246.0,56.8
+2023-07-11,Lufthansa,AMS-JFK,Economy,France,Corporate,One Way,40,2924.0,94.0
+2023-12-22,British Airways,AMS-CPH,Economy,Germany,Direct,Return,38,1958.0,62.7
+2022-11-06,British Airways,AMS-BCN,Economy,UK,GDS,Return,33,2807.0,71.7
+2023-09-19,Vueling,AMS-DXB,Economy,France,Direct,Return,28,4660.0,70.9
+2023-11-01,Turkish Airlines,AMS-DXB,Economy,Turkey,Direct,One Way,1,3197.0,74.2
+2023-06-26,Ryanair,AMS-CDG,Economy,Spain,GDS,One Way,8,1989.0,43.6
+2022-01-09,Ryanair,AMS-IST,Economy,France,Corporate,Return,37,2997.0,61.0
+2023-11-15,Air France,AMS-CDG,Economy,Germany,Online Travel Agent,Return,32,4447.0,81.9
+2023-07-22,Vueling,AMS-CPH,Business,Netherlands,Direct,One Way,48,6411.0,51.6
+2022-11-03,SAS,AMS-CPH,Economy,UK,Online Travel Agent,Return,43,2322.0,51.8
+2023-11-11,Ryanair,AMS-BCN,,Spain,GDS,One Way,37,12200.0,40.6
+2022-04-17,Turkish Airlines,AMS-CDG,Economy,Netherlands,Corporate,Return,4,2235.0,65.4
+2022-05-18,Lufthansa,AMS-FCO,Economy,Netherlands,Online Travel Agent,One Way,30,2440.0,91.2
+28/09/2022,EasyJet,AMS-CPH,Business,France,Corporate,One Way,6,10760.0,43.0
+2022-04-29,Lufthansa,AMS-FCO,Business,Germany,Online Travel Agent,One Way,46,12296.0,51.1
+2022-04-20,EasyJet,AMS-CPH,Economy,Netherlands,GDS,One Way,19,2417.0,58.0
+2023-07-21,Turkish Airlines,AMS-DXB,Economy,Netherlands,Online Travel Agent,Return,32,1873.0,82.4
+2022-06-09,SAS,AMS-BCN,Economy,Netherlands,Direct,Return,9,2684.0,77.2
+2022-10-06,Emirates,AMS-FRA,Economy,Netherlands,Online Travel Agent,Return,12,1050.0,64.1
+2022-10-16,Ryanair,AMS-CPH,Economy,Netherlands,Direct,One Way,11,,84.0
+2023-09-12,KLM,AMS-CPH,Economy,Netherlands,GDS,One Way,46,4476.0,75.4
+2022-08-04,KLM,AMS-LHR,Economy,,Corporate,Return,16,3405.0,92.0
+2022-12-18,Vueling,AMS-MAD,Business,Spain,Online Travel Agent,Return,1,8873.0,87.4
+2022-07-28,SAS,AMS-MAD,Business,Netherlands,Direct,Return,45,,54.7
+2023-12-05,Ryanair,AMS-MAD,Business,Netherlands,GDS,Return,21,12360.0,
+2023-10-12,EasyJet,AMS-FRA,First,France,Direct,Return,30,6476.0,47.3
+2022-09-28,Turkish Airlines,AMS-FCO,Economy,Germany,GDS,Return,13,4016.0,59.5
+2023-06-02,Vueling,AMS-BCN,Economy,,Direct,One Way,34,1007.0,98.0
+2023-05-16,Air France,AMS-IST,Economy,Netherlands,Online Travel Agent,Return,4,2245.0,63.5
+2022-09-15,EasyJet,AMS-DXB,,Netherlands,GDS,Return,28,2320.0,52.8
+2022-02-22,KLM,AMS-JFK,Economy,Netherlands,Direct,One Way,38,4193.0,84.2
+2022-04-05,Emirates,AMS-FCO,Economy,Spain,GDS,One Way,31,2897.0,71.5
+2023-10-12,British Airways,AMS-FCO,Economy,Turkey,Corporate,One Way,27,2088.0,48.7
+2023-03-10,Ryanair,AMS-CDG,Business,Netherlands,GDS,Return,5,14655.0,62.1
+2022-10-11,Ryanair,AMS-JFK,Economy,,GDS,One Way,25,3201.0,64.0
+2022-02-15,Ryanair,AMS-IST,,Netherlands,GDS,One Way,3,12199.0,83.7
+2022-01-04,Turkish Airlines,AMS-CPH,Economy,France,GDS,One Way,33,3530.0,41.2
+2022-12-08,Turkish Airlines,AMS-CPH,Business,Netherlands,Direct,Return,4,3194.0,55.6
+2022-05-14,KLM,AMS-JFK,Business,Turkey,GDS,Return,25,14129.0,70.0
+2023-10-15,Emirates,AMS-CDG,,France,GDS,Return,20,12807.0,55.6
+2022-09-26,KLM,AMS-FRA,Business,Netherlands,GDS,One Way,34,12829.0,76.4
+2022-06-15,Emirates,AMS-JFK,Economy,Germany,GDS,One Way,26,3159.0,67.9
+2023-03-29,Air France,AMS-MAD,Economy,Netherlands,Online Travel Agent,One Way,5,3912.0,61.0
+2023-07-19,SAS,AMS-FCO,Economy,Netherlands,Direct,One Way,35,3048.0,95.1
+2023-12-24,KLM,AMS-MAD,Business,Netherlands,GDS,Return,28,3363.0,76.7
+2023-03-14,Vueling,AMS-FCO,Business,Turkey,GDS,One Way,29,,47.5
+2023-07-29,Ryanair,AMS-DXB,Economy,Spain,GDS,Return,9,,72.5
+2022-01-10,Vueling,AMS-LHR,Economy,Turkey,GDS,Return,38,3569.0,85.3
+2022-04-25,SAS,AMS-FRA,Business,Italy,Online Travel Agent,Return,6,10958.0,81.1
+2022-03-19,Lufthansa,AMS-CDG,Economy,Spain,GDS,One Way,19,1101.0,50.0
+2023-12-09,KLM,AMS-DXB,Economy,France,GDS,Return,44,,96.4
+2022-06-02,Lufthansa,AMS-DXB,Economy,UK,GDS,One Way,11,3036.0,66.0
+2023-07-13,Lufthansa,AMS-LHR,Business,Turkey,Online Travel Agent,One Way,2,2204.0,49.2
+2022-02-06,Emirates,AMS-BCN,Economy,France,GDS,Return,47,276.0,50.5
+2023-01-14,Vueling,AMS-MAD,Economy,Spain,Direct,Return,44,879.0,45.7
+2023-08-20,Air France,AMS-FRA,Economy,Spain,GDS,Return,44,4710.0,86.6
+2023-07-20,British Airways,AMS-IST,Economy,Turkey,Direct,One Way,9,2830.0,47.1
+2022-06-01,British Airways,AMS-CPH,Economy,Germany,Online Travel Agent,Return,21,1094.0,47.3
+2023-03-17,Turkish Airlines,AMS-BCN,Business,Germany,GDS,Return,24,6077.0,89.3
+2022-05-11,Emirates,AMS-LHR,Economy,France,GDS,One Way,34,2843.0,60.0
+2022-02-12,SAS,AMS-BCN,Economy,Netherlands,Direct,Return,22,708.0,41.8
+2022-11-12,Air France,AMS-MAD,Economy,Netherlands,GDS,Return,3,963.0,43.0
+2023-01-09,Ryanair,AMS-FRA,Economy,Netherlands,Direct,One Way,12,3713.0,48.2
+2022-02-10,Vueling,AMS-FCO,Business,France,Direct,One Way,28,9431.0,52.4
+2023-01-02,Ryanair,AMS-DXB,Business,Turkey,Online Travel Agent,Return,30,2413.0,78.6
+2022-08-04,Vueling,AMS-LHR,Economy,UK,Online Travel Agent,Return,26,4303.0,49.1
+2023-11-30,EasyJet,AMS-BCN,Economy,Netherlands,Online Travel Agent,One Way,48,3187.0,46.9
+13/09/2022,KLM,AMS-CDG,Economy,Netherlands,GDS,Return,21,3325.0,84.4
+2023-11-14,British Airways,AMS-CPH,Economy,Turkey,Online Travel Agent,Return,28,3324.0,78.9
+2022-04-16,Emirates,AMS-FCO,Economy,Germany,Online Travel Agent,One Way,26,1381.0,65.2
+2022-12-29,KLM,AMS-BCN,Economy,Netherlands,Online Travel Agent,Return,33,4252.0,71.9
+2023-07-28,KLM,AMS-FRA,Economy,Italy,Direct,One Way,21,1884.0,58.1
+2023-02-21,Lufthansa,AMS-FCO,Economy,Netherlands,Corporate,Return,35,2392.0,68.0
+2023-09-28,Turkish Airlines,AMS-DXB,Economy,Netherlands,Online Travel Agent,Return,34,1960.0,69.4
+2022-06-08,Turkish Airlines,AMS-CDG,Economy,UK,Direct,One Way,41,,62.5
+2022-08-31,EasyJet,AMS-FRA,Economy,Spain,GDS,Return,47,4020.0,92.6
+2022-06-16,Emirates,AMS-BCN,Business,Netherlands,Online Travel Agent,Return,18,8914.0,40.9
+2022-07-01,Vueling,AMS-IST,Economy,Turkey,Corporate,One Way,11,3432.0,85.4
+2023-02-27,KLM,AMS-IST,Economy,Germany,Direct,Return,23,2463.0,47.2
+2022-01-26,Emirates,AMS-BCN,Economy,Netherlands,Direct,Return,48,3394.0,86.3
+2022-07-03,KLM,AMS-BCN,Economy,Italy,Online Travel Agent,One Way,22,4306.0,75.7
+2022-12-07,Air France,AMS-JFK,Economy,Netherlands,Online Travel Agent,Return,17,842.0,88.9
+2023-02-26,Vueling,AMS-CDG,Economy,Turkey,Direct,Return,5,920.0,45.7
+2023-11-17,Vueling,AMS-MAD,Economy,UK,GDS,Return,44,1637.0,72.4
+2022-09-12,Turkish Airlines,AMS-JFK,Economy,Italy,GDS,Return,11,4371.0,69.1
+2022-10-01,KLM,AMS-CDG,Economy,Germany,Corporate,Return,30,887.0,81.0
+2022-06-13,KLM,AMS-BCN,Economy,Netherlands,Online Travel Agent,Return,15,653.0,71.0
+2023-12-20,SAS,AMS-BCN,Economy,UK,Corporate,Return,27,5021.0,71.4
+2022-04-21,Vueling,AMS-LHR,Economy,Italy,GDS,One Way,35,4438.0,
+27/01/2023,Emirates,AMS-CDG,Economy,Netherlands,Online Travel Agent,Return,33,2208.0,57.9
+2022-02-09,KLM,AMS-BCN,Economy,Netherlands,Online Travel Agent,One Way,20,,
+2023-04-27,SAS,AMS-BCN,Economy,Netherlands,Online Travel Agent,One Way,16,741.0,46.9
+2022-08-16,British Airways,AMS-FRA,Economy,France,Corporate,Return,34,3164.0,95.8
+2022-07-24,SAS,AMS-FCO,Business,Netherlands,Direct,Return,2,10570.0,81.4
+2023-04-17,Emirates,AMS-CPH,Economy,Netherlands,GDS,One Way,35,348.0,95.2
+2022-12-25,EasyJet,AMS-IST,Economy,Turkey,Direct,One Way,40,,53.2
+2022-11-09,EasyJet,AMS-FRA,Business,UK,GDS,One Way,28,11717.0,91.0
+2022-08-22,British Airways,AMS-BCN,Economy,UK,Direct,One Way,47,3016.0,86.9
+2022-08-17,KLM,AMS-JFK,Business,France,GDS,Return,39,10221.0,79.3
+2022-01-25,Lufthansa,AMS-DXB,Business,Spain,Online Travel Agent,Return,6,9930.0,76.3
+2023-11-07,Air France,AMS-CDG,Economy,Germany,Online Travel Agent,Return,9,1204.0,58.4
+2022-07-17,Vueling,AMS-LHR,Business,Netherlands,GDS,Return,20,9598.0,87.4
+2023-02-13,British Airways,AMS-MAD,Economy,Germany,GDS,One Way,1,1097.0,69.1
+2022-12-03,Vueling,AMS-JFK,Economy,France,Online Travel Agent,Return,8,2790.0,44.1
+2022-10-13,British Airways,AMS-CDG,,Germany,Online Travel Agent,One Way,23,9224.0,58.1
+2022-03-13,EasyJet,AMS-BCN,Business,Turkey,GDS,One Way,3,11933.0,94.2
+2022-10-13,Lufthansa,AMS-JFK,Economy,Italy,Online Travel Agent,Return,4,5182.0,89.3
+2022-12-26,SAS,AMS-MAD,Economy,Italy,Online Travel Agent,Return,25,1483.0,97.0
+2023-10-19,EasyJet,AMS-CDG,Business,Germany,Direct,Return,47,3095.0,76.4
+2023-06-06,Emirates,AMS-BCN,Economy,,Direct,One Way,38,4538.0,54.4
+2023-02-14,SAS,AMS-IST,Economy,Turkey,Direct,Return,15,1172.0,49.4
+2023-11-27,KLM,AMS-DXB,Economy,Netherlands,Online Travel Agent,Return,21,2754.0,50.8
+2023-07-04,Turkish Airlines,AMS-FRA,Economy,Netherlands,Direct,One Way,35,3648.0,
+2022-12-06,Vueling,AMS-MAD,Business,France,Corporate,One Way,46,8525.0,62.7
+2022-01-29,British Airways,AMS-CDG,Economy,Netherlands,GDS,Return,14,1669.0,51.1
+2022-04-29,EasyJet,AMS-JFK,Business,Spain,GDS,Return,36,4350.0,63.9
+2022-09-25,SAS,AMS-CPH,Business,Germany,Online Travel Agent,Return,12,9953.0,94.2
+2022-07-02,British Airways,AMS-BCN,Economy,Germany,Direct,One Way,17,3218.0,65.0
+2023-08-18,EasyJet,AMS-DXB,Business,Germany,Online Travel Agent,Return,39,4514.0,90.9
+2022-09-29,KLM,AMS-DXB,Economy,Netherlands,Direct,Return,9,2082.0,75.1
+2022-02-09,Air France,AMS-FRA,Economy,UK,Online Travel Agent,Return,35,3138.0,54.3
+2022-04-22,SAS,AMS-FCO,Economy,Netherlands,Direct,One Way,13,2440.0,60.6
+2023-09-03,Turkish Airlines,AMS-LHR,,Turkey,GDS,Return,15,3736.0,44.9
+2023-03-21,British Airways,AMS-IST,Economy,UK,Online Travel Agent,Return,18,1566.0,59.3
+2022-12-20,SAS,AMS-IST,Economy,Germany,GDS,One Way,33,2332.0,79.3
+2022-11-18,Turkish Airlines,AMS-LHR,Economy,UK,Corporate,Return,6,1399.0,44.2
+2023-03-23,Ryanair,AMS-CPH,Economy,Netherlands,Direct,Return,27,776.0,51.9
+2023-09-13,Ryanair,AMS-DXB,Economy,Netherlands,Direct,One Way,23,,62.1
+2023-06-08,KLM,AMS-DXB,Economy,France,Direct,Return,27,738.0,97.0
+2022-04-29,Ryanair,AMS-LHR,Economy,Netherlands,Direct,Return,34,4751.0,85.5
+2023-01-30,EasyJet,AMS-FRA,Business,France,Direct,One Way,46,,82.5
+2023-08-14,EasyJet,AMS-BCN,Economy,Netherlands,Online Travel Agent,Return,38,1361.0,46.7
+2022-07-14,KLM,AMS-MAD,Business,Germany,GDS,Return,14,5869.0,
+2022-09-18,Lufthansa,AMS-CPH,Business,Netherlands,Corporate,One Way,36,8295.0,85.5
+2022-02-15,EasyJet,AMS-DXB,Business,Germany,GDS,Return,8,10780.0,74.9
+2023-12-27,Ryanair,AMS-FCO,Economy,France,GDS,Return,35,1686.0,97.4
+2023-03-23,EasyJet,AMS-MAD,Economy,Netherlands,Online Travel Agent,Return,19,3004.0,58.9
+2022-01-02,British Airways,AMS-MAD,Economy,Germany,Online Travel Agent,Return,30,2503.0,94.6
+2023-06-17,Lufthansa,AMS-FRA,Economy,Netherlands,GDS,Return,14,4525.0,93.1
+2023-07-06,KLM,AMS-FCO,Business,UK,Direct,Return,20,2917.0,40.7
+2023-12-05,British Airways,AMS-DXB,Economy,Netherlands,Online Travel Agent,Return,49,3186.0,66.1
+2023-11-18,British Airways,AMS-BCN,Economy,Italy,GDS,Return,25,4597.0,96.7
+2022-07-21,Air France,AMS-MAD,Business,Netherlands,Online Travel Agent,Return,40,10326.0,46.0
+2023-01-08,Lufthansa,AMS-CDG,Economy,Netherlands,Corporate,Return,24,4287.0,71.8
+2023-03-18,Lufthansa,AMS-JFK,Business,Netherlands,Corporate,Return,14,16969.0,96.8
+2022-03-13,Turkish Airlines,AMS-DXB,Business,France,Online Travel Agent,Return,26,3478.0,72.2
+2023-11-12,Emirates,AMS-BCN,Economy,Netherlands,GDS,Return,38,4047.0,51.0
+2022-12-05,Turkish Airlines,AMS-MAD,Business,Netherlands,GDS,One Way,23,3994.0,73.8
+2023-10-01,KLM,AMS-DXB,Economy,Netherlands,GDS,One Way,22,627.0,51.9
+2022-11-18,British Airways,AMS-DXB,Economy,Netherlands,Direct,One Way,48,978.0,70.1
+2023-11-11,KLM,AMS-FRA,Economy,Germany,GDS,Return,19,1415.0,
+2022-05-08,Emirates,AMS-CDG,Business,Netherlands,Direct,One Way,46,7467.0,75.1
+2022-11-04,British Airways,AMS-LHR,Economy,Netherlands,GDS,Return,3,3196.0,70.0
+2023-06-04,British Airways,AMS-CPH,Economy,Turkey,Online Travel Agent,One Way,42,,82.9
+2022-11-13,Air France,AMS-DXB,Economy,Netherlands,GDS,Return,19,4393.0,76.6
+2023-11-14,British Airways,AMS-BCN,Economy,Spain,Direct,One Way,9,751.0,71.9
+23/02/2023,KLM,AMS-FRA,Economy,Netherlands,Corporate,One Way,28,1213.0,80.0
+2022-12-01,SAS,AMS-IST,Economy,Germany,GDS,One Way,20,1695.0,48.3
+2023-02-17,SAS,AMS-BCN,Economy,Turkey,Corporate,Return,45,3767.0,74.5
+15/12/2023,SAS,AMS-FRA,,Italy,Direct,Return,7,1206.0,50.0
+2022-10-30,Emirates,AMS-CDG,,Germany,Corporate,Return,14,1016.0,93.7
+2023-07-22,Lufthansa,AMS-IST,Economy,UK,GDS,One Way,9,314.0,44.0
+2022-05-11,British Airways,AMS-BCN,Economy,Spain,GDS,Return,19,2193.0,65.0
+2022-07-16,Lufthansa,AMS-BCN,Business,Netherlands,GDS,Return,47,11965.0,80.4
+2023-03-07,British Airways,AMS-BCN,Economy,France,Corporate,Return,14,4694.0,66.6
+2023-11-12,Turkish Airlines,AMS-DXB,Business,France,Direct,One Way,38,6238.0,45.3
+2023-01-24,KLM,AMS-DXB,Business,,GDS,One Way,36,14604.0,72.1
+2023-11-25,Turkish Airlines,AMS-DXB,Economy,UK,GDS,One Way,40,3390.0,77.2
+2022-06-28,Turkish Airlines,AMS-IST,Economy,Netherlands,GDS,One Way,17,3409.0,80.8
+2023-09-23,Turkish Airlines,AMS-DXB,Economy,Spain,Direct,One Way,30,5153.0,61.6
+2023-08-06,KLM,AMS-CPH,Economy,Germany,GDS,Return,9,3081.0,72.7
+2022-11-05,Air France,AMS-FRA,Business,France,Online Travel Agent,Return,33,4419.0,66.1
+2023-02-20,Air France,AMS-FCO,Business,Germany,Online Travel Agent,Return,25,9061.0,79.0
+2023-07-16,Ryanair,AMS-MAD,Economy,Netherlands,GDS,Return,14,1739.0,73.8
+2022-01-01,Emirates,AMS-LHR,Business,Netherlands,Corporate,One Way,11,9110.0,70.5
+2022-11-08,Lufthansa,AMS-IST,Economy,France,Corporate,Return,35,3289.0,54.5
+2022-10-21,Lufthansa,AMS-JFK,Economy,Turkey,GDS,Return,41,,40.1
+2022-08-04,British Airways,AMS-CDG,Economy,Netherlands,Online Travel Agent,Return,14,1685.0,
+2023-03-17,SAS,AMS-IST,Economy,Netherlands,GDS,Return,30,3414.0,46.8
+2023-08-17,British Airways,AMS-FRA,Economy,Netherlands,GDS,Return,41,3078.0,66.0
+2023-09-14,Ryanair,AMS-JFK,Economy,Italy,GDS,Return,4,2425.0,75.5
+2023-11-02,Vueling,AMS-IST,Business,Turkey,GDS,Return,4,1691.0,52.4
+2022-11-26,British Airways,AMS-CPH,Economy,Netherlands,Direct,One Way,28,1605.0,94.5
+2023-04-22,British Airways,AMS-DXB,Business,France,Online Travel Agent,Return,8,9622.0,40.4
+2023-03-29,Vueling,AMS-JFK,Economy,France,Direct,One Way,2,2906.0,84.8
+2023-03-29,Vueling,AMS-BCN,Economy,Netherlands,GDS,Return,41,552.0,76.3
+2023-11-23,SAS,AMS-BCN,Economy,Spain,GDS,Return,46,3458.0,61.7
+2022-08-07,Lufthansa,AMS-BCN,Economy,Netherlands,Corporate,One Way,22,699.0,42.9
+2023-06-08,British Airways,AMS-CDG,,,Online Travel Agent,Return,41,4337.0,76.4
+2023-04-30,SAS,AMS-LHR,Economy,Germany,GDS,Return,16,1599.0,62.4
+2022-06-23,Air France,AMS-CDG,Economy,UK,Corporate,Return,29,4525.0,94.3
+2023-11-06,British Airways,AMS-FRA,Economy,Italy,Online Travel Agent,Return,49,3533.0,71.4
+2022-03-28,SAS,AMS-BCN,Economy,Netherlands,GDS,Return,48,2970.0,94.5
+2022-10-18,SAS,AMS-IST,Economy,Netherlands,GDS,Return,30,692.0,52.8
+2023-06-12,Air France,AMS-CDG,Economy,France,GDS,Return,12,3017.0,82.1
+2023-11-11,Ryanair,AMS-DXB,Economy,Netherlands,Online Travel Agent,Return,35,3686.0,75.8
+2023-10-11,Turkish Airlines,AMS-MAD,Business,Netherlands,Direct,One Way,11,,82.9
+2023-09-27,Emirates,AMS-LHR,Economy,Spain,Direct,One Way,46,2321.0,52.5
+2022-12-10,Air France,AMS-MAD,Economy,Netherlands,Corporate,Return,21,3503.0,78.6
+2022-04-06,British Airways,AMS-IST,Economy,France,GDS,Return,21,1228.0,68.9
+2022-08-29,Vueling,AMS-MAD,Economy,France,Online Travel Agent,One Way,5,,
+2023-11-20,British Airways,AMS-IST,Economy,Italy,Direct,Return,48,,59.0
+2022-11-14,Lufthansa,AMS-MAD,Business,Netherlands,Direct,One Way,20,11548.0,91.6
+19/08/2022,Emirates,AMS-FRA,Economy,Netherlands,Online Travel Agent,Return,37,4040.0,44.9
+2022-07-23,Emirates,AMS-FRA,Business,Netherlands,Online Travel Agent,One Way,3,1220.0,86.8
+2022-05-31,Emirates,AMS-BCN,Business,Netherlands,Direct,One Way,44,7247.0,90.0
+2022-01-26,Ryanair,AMS-FCO,Economy,Netherlands,GDS,One Way,33,1934.0,87.4
+2022-02-17,Emirates,AMS-BCN,Economy,Netherlands,Direct,Return,9,222.0,69.7
+2022-09-08,SAS,AMS-JFK,,France,Direct,Return,9,3658.0,65.4
+2023-05-02,Turkish Airlines,AMS-CPH,Economy,Netherlands,Direct,One Way,4,946.0,97.8
+2023-09-18,EasyJet,AMS-LHR,First,Germany,GDS,Return,35,5883.0,53.3
+2022-03-16,Turkish Airlines,AMS-BCN,Economy,Italy,GDS,Return,17,1816.0,71.7
+2023-04-12,Air France,AMS-JFK,Economy,Netherlands,Online Travel Agent,One Way,34,5286.0,78.9
+01/03/2023,Ryanair,AMS-BCN,Economy,France,Direct,Return,24,,80.7
+2023-10-07,Vueling,AMS-MAD,Business,,Online Travel Agent,Return,32,7950.0,51.8
+2023-08-13,EasyJet,AMS-FRA,Economy,,GDS,Return,1,357.0,77.9
+2022-07-19,Turkish Airlines,AMS-LHR,Economy,Netherlands,Direct,One Way,8,4873.0,87.5
+2023-12-15,Turkish Airlines,AMS-BCN,Business,Netherlands,Direct,Return,45,,42.9
+2023-01-29,Ryanair,AMS-CDG,Business,UK,Direct,Return,23,15553.0,92.9
+2023-05-22,Air France,AMS-FRA,Economy,UK,GDS,Return,47,4940.0,41.7
+2023-02-14,Ryanair,AMS-FCO,Business,Turkey,Corporate,Return,40,6217.0,60.6
+2022-09-07,EasyJet,AMS-JFK,Business,UK,Direct,One Way,12,7527.0,40.9
+2022-06-01,EasyJet,AMS-CPH,Economy,Netherlands,Online Travel Agent,One Way,12,731.0,44.5
+2023-11-03,KLM,AMS-FCO,Economy,,GDS,Return,46,548.0,92.8
+2023-12-06,SAS,AMS-MAD,Economy,Netherlands,Direct,Return,47,521.0,
+2022-01-06,Turkish Airlines,AMS-IST,Economy,Netherlands,Online Travel Agent,Return,15,5015.0,64.6
+2022-04-20,Turkish Airlines,AMS-IST,Economy,Italy,GDS,One Way,41,4423.0,52.5
+2023-03-12,Emirates,AMS-FCO,Economy,Germany,Online Travel Agent,Return,19,2522.0,74.6
+2022-08-13,SAS,AMS-DXB,Economy,Netherlands,Corporate,Return,26,3539.0,74.5
+2022-06-30,Ryanair,AMS-CDG,Economy,Netherlands,Corporate,Return,29,2056.0,61.6
+2023-12-14,Emirates,AMS-DXB,Business,Spain,Online Travel Agent,Return,22,4164.0,59.3
+2023-06-15,EasyJet,AMS-LHR,Economy,Netherlands,Direct,Return,40,,91.3
+2023-04-21,British Airways,AMS-FRA,Economy,Netherlands,GDS,Return,21,2466.0,
+2022-02-21,Vueling,AMS-IST,Economy,Netherlands,Corporate,Return,38,4641.0,68.6
+2023-07-25,Emirates,AMS-CDG,Economy,UK,GDS,Return,20,2486.0,56.4
+2022-09-13,Ryanair,AMS-IST,Business,Italy,Direct,Return,29,15257.0,
+2022-05-05,KLM,AMS-FCO,Economy,Netherlands,Online Travel Agent,Return,4,4856.0,63.1
+2023-04-13,EasyJet,AMS-IST,Business,Netherlands,Corporate,Return,7,3189.0,69.8
+2022-05-17,Ryanair,AMS-LHR,Business,,GDS,Return,28,16383.0,54.7
+2023-04-21,British Airways,AMS-DXB,Business,France,Online Travel Agent,One Way,28,13299.0,97.3
+2023-11-15,Ryanair,AMS-DXB,Economy,Netherlands,Online Travel Agent,One Way,4,2321.0,56.9
+2023-06-28,KLM,AMS-FCO,Economy,Italy,GDS,Return,22,2167.0,84.7
+2023-07-27,SAS,AMS-CPH,Business,Netherlands,GDS,One Way,12,9974.0,64.8
+2023-09-02,Ryanair,AMS-MAD,Economy,UK,GDS,Return,45,1879.0,52.0
+2022-11-21,British Airways,AMS-LHR,Economy,Italy,Online Travel Agent,One Way,3,418.0,86.4
+2023-03-30,EasyJet,AMS-CDG,Economy,Netherlands,Direct,Return,22,918.0,59.3
+2023-09-20,SAS,AMS-MAD,Business,Germany,Direct,One Way,44,14822.0,90.2
+2023-06-01,Turkish Airlines,AMS-LHR,Business,Turkey,Direct,One Way,2,7275.0,93.1
+2023-03-13,KLM,AMS-MAD,Business,Germany,Online Travel Agent,Return,24,2770.0,89.9
+2023-07-16,Air France,AMS-BCN,Economy,Netherlands,Direct,Return,34,4242.0,42.0
+2023-04-02,Emirates,AMS-CDG,Economy,Germany,Corporate,Return,27,4739.0,85.7
+2022-06-12,Emirates,AMS-DXB,Economy,Turkey,Online Travel Agent,One Way,41,2223.0,63.9
+2023-05-02,Emirates,AMS-DXB,Economy,UK,GDS,Return,1,1248.0,90.7
+2023-04-06,Emirates,AMS-FRA,Economy,Netherlands,GDS,Return,8,350.0,77.0
+2022-09-23,Turkish Airlines,AMS-DXB,Economy,France,Corporate,One Way,23,608.0,88.4
+2022-09-11,British Airways,AMS-MAD,Economy,France,Online Travel Agent,One Way,38,2807.0,69.0
+2023-10-15,EasyJet,AMS-CDG,Business,France,Online Travel Agent,One Way,6,6494.0,71.0
+2022-10-11,Emirates,AMS-MAD,Economy,France,Direct,Return,22,5429.0,48.4
+2023-06-18,Emirates,AMS-JFK,Economy,Germany,GDS,Return,25,3014.0,85.5
+2023-05-12,British Airways,AMS-CDG,Economy,France,Direct,Return,18,3634.0,64.3
+2023-10-04,KLM,AMS-BCN,Business,Netherlands,GDS,Return,17,12318.0,69.0
+2022-09-02,Lufthansa,AMS-FRA,Economy,Netherlands,GDS,Return,12,1653.0,
+2022-10-09,Turkish Airlines,AMS-FRA,Business,Germany,Corporate,One Way,6,14621.0,74.7
+2023-03-27,SAS,AMS-IST,Economy,Spain,Online Travel Agent,One Way,26,5484.0,51.7
+2022-03-21,Lufthansa,AMS-JFK,Business,Germany,Online Travel Agent,One Way,27,5876.0,74.2
+2024-01-01,SAS,AMS-MAD,First,Netherlands,GDS,One Way,8,24395.0,63.6
+2022-10-20,Lufthansa,AMS-BCN,Economy,Netherlands,GDS,Return,19,2375.0,67.2
+2022-08-29,British Airways,AMS-CPH,Economy,Netherlands,Direct,Return,42,1373.0,41.6
+2022-10-06,Turkish Airlines,AMS-MAD,Economy,Netherlands,Corporate,One Way,1,1543.0,52.2
+2022-12-10,Air France,AMS-CPH,Economy,Spain,GDS,Return,29,2568.0,56.3
+2022-11-24,Turkish Airlines,AMS-MAD,First,Italy,GDS,Return,45,,81.4
+2023-07-08,Turkish Airlines,AMS-CDG,Business,Netherlands,GDS,Return,49,,40.7
+2022-03-24,Turkish Airlines,AMS-CPH,Business,Germany,Corporate,One Way,35,4988.0,63.7
+2022-05-22,Ryanair,AMS-CPH,Economy,Netherlands,GDS,Return,40,4582.0,93.6
+2022-06-04,British Airways,AMS-FCO,Economy,Turkey,GDS,One Way,14,5036.0,
+2022-08-25,British Airways,AMS-FRA,Economy,Turkey,GDS,Return,35,1514.0,70.0
+2023-01-28,Vueling,AMS-IST,,Germany,Direct,Return,48,16813.0,85.6
+2023-12-12,Lufthansa,AMS-CDG,Economy,Netherlands,GDS,Return,45,2797.0,94.7
+06/06/2022,Vueling,AMS-IST,Economy,Germany,Direct,Return,20,2751.0,83.3
+2023-12-25,Ryanair,AMS-JFK,Business,Netherlands,Online Travel Agent,Return,49,7581.0,81.8
+2022-08-08,Ryanair,AMS-CDG,Business,Netherlands,GDS,Return,13,962.0,87.9
+2022-03-07,Lufthansa,AMS-MAD,Economy,Netherlands,Online Travel Agent,One Way,38,3227.0,65.9
+2023-03-01,SAS,AMS-DXB,Business,Netherlands,Direct,Return,49,9020.0,86.7
+2023-02-22,Air France,AMS-LHR,Economy,Germany,Online Travel Agent,Return,46,3317.0,40.5
+2022-12-05,Lufthansa,AMS-BCN,Business,France,Corporate,One Way,49,,93.6
+2023-07-10,Lufthansa,AMS-FRA,Economy,Netherlands,GDS,One Way,8,4568.0,65.7
+2023-04-23,Emirates,AMS-JFK,Economy,Netherlands,GDS,Return,43,2818.0,
+2023-03-02,SAS,AMS-LHR,Business,UK,GDS,Return,20,14418.0,
+2022-03-05,Air France,AMS-CPH,Economy,Netherlands,Corporate,Return,33,4708.0,83.1
+2022-07-31,Turkish Airlines,AMS-DXB,Economy,Netherlands,GDS,Return,26,4393.0,44.4
+2023-03-07,Lufthansa,AMS-DXB,Economy,Netherlands,Direct,Return,39,4153.0,90.6
+2023-02-03,Ryanair,AMS-LHR,Economy,Germany,Corporate,Return,21,3545.0,88.0
+2023-08-22,Turkish Airlines,AMS-DXB,Economy,Netherlands,Online Travel Agent,One Way,49,2289.0,52.5
+2023-12-14,KLM,AMS-FCO,Economy,Spain,GDS,Return,42,921.0,86.9
+2022-01-21,Ryanair,AMS-MAD,Economy,Italy,Direct,One Way,43,4340.0,85.6
+2023-08-13,Lufthansa,AMS-JFK,First,Spain,Online Travel Agent,One Way,41,7446.0,76.7
+2023-01-25,Emirates,AMS-FCO,Economy,UK,GDS,Return,9,4696.0,61.7
+2023-05-04,British Airways,AMS-CDG,Economy,Netherlands,Online Travel Agent,One Way,24,2672.0,55.7
+2022-01-07,EasyJet,AMS-DXB,Business,UK,GDS,Return,37,6584.0,53.4
+2022-12-27,Air France,AMS-DXB,,Spain,Online Travel Agent,Return,49,1612.0,58.5
+2022-11-02,EasyJet,AMS-MAD,Economy,Germany,Online Travel Agent,Return,41,3028.0,92.4
+2023-02-04,Vueling,AMS-DXB,Business,Italy,GDS,One Way,17,5748.0,44.5
+2023-03-06,KLM,AMS-DXB,Economy,,GDS,Return,24,3872.0,88.1
+2023-07-06,Lufthansa,AMS-FRA,Economy,Netherlands,GDS,One Way,21,756.0,60.2
+2023-07-14,Vueling,AMS-DXB,,France,GDS,One Way,39,15363.0,
+2023-09-10,Lufthansa,AMS-CDG,Economy,France,Online Travel Agent,Return,41,844.0,86.1
+2022-08-14,British Airways,AMS-BCN,Economy,Netherlands,Online Travel Agent,Return,39,1810.0,91.3
+2023-05-15,Turkish Airlines,AMS-CDG,Business,France,Direct,One Way,13,14718.0,60.0
+2022-08-13,Air France,AMS-IST,Economy,Netherlands,GDS,Return,11,3153.0,66.8
+2022-10-07,Vueling,AMS-CDG,Economy,Netherlands,Online Travel Agent,Return,46,4950.0,64.0
+2023-03-23,Emirates,AMS-CDG,Economy,Netherlands,Direct,Return,19,4205.0,40.8
+2023-05-13,Ryanair,AMS-CDG,Economy,Germany,GDS,Return,11,3284.0,57.2
+2022-01-30,Emirates,AMS-CDG,Business,Netherlands,Corporate,One Way,13,2288.0,66.6
+2023-02-03,Ryanair,AMS-CDG,Economy,Netherlands,GDS,Return,46,2608.0,63.8
+2022-12-11,Emirates,AMS-FRA,Business,Netherlands,Corporate,Return,45,10323.0,81.9
+2023-11-16,British Airways,AMS-JFK,Economy,UK,Direct,Return,1,3121.0,62.3
+2023-11-27,Vueling,AMS-FRA,,UK,Online Travel Agent,Return,40,2295.0,68.4
+2023-02-19,Ryanair,AMS-IST,Economy,Netherlands,Corporate,Return,44,1698.0,64.9
+2022-06-19,Vueling,AMS-FRA,Economy,Netherlands,Online Travel Agent,Return,19,2356.0,83.0
+2023-04-24,EasyJet,AMS-LHR,Economy,Germany,GDS,Return,12,2860.0,90.1
+2022-05-11,Air France,AMS-FCO,Economy,Netherlands,Corporate,Return,8,2754.0,70.8
+2023-09-30,Ryanair,AMS-FRA,Business,Netherlands,Online Travel Agent,One Way,8,13505.0,85.8
+2023-07-01,KLM,AMS-CPH,Economy,Spain,Corporate,Return,45,2777.0,
+2022-01-28,Lufthansa,AMS-MAD,Economy,Turkey,Direct,Return,12,3999.0,71.4
+2023-02-08,Lufthansa,AMS-LHR,Business,Germany,Corporate,Return,48,12601.0,60.0
+2023-08-30,British Airways,AMS-DXB,,Spain,Corporate,Return,33,5282.0,64.0
+2023-08-01,Lufthansa,AMS-CPH,Economy,Netherlands,GDS,Return,45,,82.5
+2023-11-10,Ryanair,AMS-BCN,Economy,Italy,GDS,Return,26,5529.0,91.1
+2022-01-28,Emirates,AMS-DXB,Economy,Turkey,GDS,Return,39,1633.0,47.0
+2022-03-27,Turkish Airlines,AMS-CDG,Economy,Netherlands,Online Travel Agent,One Way,28,2550.0,
+2023-10-21,Lufthansa,AMS-LHR,Economy,Spain,GDS,Return,5,486.0,73.8
+2023-03-15,British Airways,AMS-JFK,Economy,Netherlands,Online Travel Agent,One Way,8,721.0,46.9
+2022-05-19,Lufthansa,AMS-IST,Economy,Germany,Online Travel Agent,Return,25,227.0,52.3
+2023-04-18,Ryanair,AMS-CDG,Economy,Netherlands,Online Travel Agent,Return,27,832.0,58.0
+2022-07-06,Ryanair,AMS-FRA,Economy,Italy,Direct,Return,46,4717.0,49.7
+2022-02-21,Ryanair,AMS-FRA,Economy,Spain,GDS,One Way,23,4384.0,54.1
+2022-09-24,SAS,AMS-CPH,First,Spain,GDS,Return,30,12155.0,55.5
+2023-01-24,Emirates,AMS-FRA,Economy,Netherlands,Online Travel Agent,Return,45,3225.0,59.5
+2022-12-02,Turkish Airlines,AMS-FCO,Economy,Spain,GDS,Return,47,503.0,83.5
+2022-08-05,Lufthansa,AMS-LHR,Economy,Netherlands,Direct,Return,23,4254.0,73.2
+2023-04-11,British Airways,AMS-CDG,First,Spain,Online Travel Agent,Return,49,11687.0,97.2
+2022-12-01,Turkish Airlines,AMS-LHR,Economy,Germany,Online Travel Agent,Return,47,1009.0,64.1
+2022-12-12,KLM,AMS-FRA,Economy,UK,GDS,One Way,20,3155.0,83.7
+2023-01-24,British Airways,AMS-BCN,Economy,Netherlands,GDS,One Way,18,1425.0,90.5
+2022-10-12,KLM,AMS-MAD,Economy,Germany,GDS,Return,18,3037.0,79.4
+2023-03-08,Lufthansa,AMS-IST,First,Spain,Direct,One Way,2,11496.0,63.9
+2022-09-16,Vueling,AMS-LHR,Economy,Germany,GDS,One Way,4,3413.0,83.7
+2022-03-25,SAS,AMS-IST,Economy,Turkey,GDS,Return,30,5116.0,51.8
+2023-04-27,Emirates,AMS-LHR,Business,Germany,GDS,Return,33,6668.0,59.0
+2022-01-20,Turkish Airlines,AMS-BCN,Economy,UK,GDS,Return,36,893.0,
+2023-07-07,Ryanair,AMS-DXB,Business,Netherlands,GDS,Return,18,4126.0,73.4
+2022-02-23,Turkish Airlines,AMS-CDG,Economy,,Corporate,Return,37,1754.0,41.3
+2022-12-25,Vueling,AMS-MAD,Business,France,Online Travel Agent,Return,19,4202.0,94.8
+2022-08-18,Turkish Airlines,AMS-FCO,Business,Netherlands,Online Travel Agent,One Way,47,1099.0,80.4
+2023-10-28,KLM,AMS-DXB,Economy,Turkey,Corporate,Return,28,5031.0,68.8
+2022-03-12,KLM,AMS-BCN,Economy,Germany,Online Travel Agent,Return,40,,94.1
+2023-10-30,EasyJet,AMS-LHR,Economy,Netherlands,Online Travel Agent,Return,20,4047.0,
+2022-02-11,Air France,AMS-BCN,Business,France,GDS,Return,49,5998.0,96.9
+2022-02-01,Air France,AMS-CDG,Economy,,Corporate,Return,33,240.0,69.7
+11/09/2022,Emirates,AMS-FCO,Business,Italy,GDS,Return,12,1371.0,46.6
+2022-07-24,Lufthansa,AMS-CPH,Economy,Italy,Online Travel Agent,Return,15,2446.0,84.4
+2022-01-21,Turkish Airlines,AMS-FRA,Economy,Netherlands,Corporate,Return,41,1314.0,79.4
+2023-09-29,EasyJet,AMS-MAD,Economy,Netherlands,Direct,Return,39,2232.0,84.8
+2022-06-06,EasyJet,AMS-BCN,Business,France,Corporate,Return,2,12390.0,95.2
+2022-09-02,Emirates,AMS-IST,Economy,Netherlands,Corporate,Return,29,1772.0,85.0
+2022-05-10,Lufthansa,AMS-DXB,Business,Netherlands,Online Travel Agent,Return,41,,75.5
+2023-04-30,Lufthansa,AMS-IST,Economy,Netherlands,GDS,Return,10,4765.0,89.7
+2023-11-17,EasyJet,AMS-CDG,Economy,Netherlands,Direct,Return,2,,79.0
+2022-04-28,Vueling,AMS-DXB,Economy,Spain,Corporate,Return,11,2368.0,63.7
+2023-08-01,British Airways,AMS-LHR,Economy,Netherlands,Online Travel Agent,Return,13,3103.0,91.4
+2022-08-12,Vueling,AMS-CPH,Economy,Netherlands,Corporate,Return,10,1781.0,52.9
+2023-04-22,KLM,AMS-CDG,Business,Spain,GDS,One Way,14,11555.0,81.4
+2023-12-18,EasyJet,AMS-FCO,Economy,Germany,Direct,One Way,18,2331.0,91.1
+2022-09-20,Emirates,AMS-JFK,First,France,Corporate,Return,9,13716.0,82.4
+2023-01-13,SAS,AMS-BCN,Economy,Netherlands,Online Travel Agent,Return,39,,80.4
+2022-06-21,Lufthansa,AMS-DXB,Economy,Netherlands,GDS,Return,28,3515.0,83.7
+2023-09-13,Vueling,AMS-CDG,Business,Netherlands,GDS,One Way,3,8984.0,67.0
+2023-09-14,EasyJet,AMS-MAD,Economy,Netherlands,GDS,Return,20,1438.0,90.7
+2022-04-28,Air France,AMS-MAD,Economy,France,Online Travel Agent,Return,6,1568.0,51.8
+17/06/2022,SAS,AMS-LHR,Business,Turkey,GDS,One Way,27,10456.0,47.4
+2022-11-15,Turkish Airlines,AMS-DXB,Business,Turkey,GDS,One Way,2,7409.0,56.6
+2022-04-21,British Airways,AMS-BCN,Economy,France,GDS,One Way,29,1804.0,70.8
+2023-08-16,Vueling,AMS-CPH,,Netherlands,Corporate,Return,38,1863.0,69.6
+2022-01-27,Turkish Airlines,AMS-CDG,Economy,France,GDS,Return,3,2308.0,87.6
+2022-11-16,SAS,AMS-CPH,Business,UK,Direct,Return,16,12869.0,63.5
+2023-08-13,EasyJet,AMS-CDG,,Spain,Direct,Return,30,11752.0,68.1
+2023-11-25,Air France,AMS-FCO,Business,Netherlands,Corporate,Return,40,8585.0,40.8
+2023-01-20,Vueling,AMS-LHR,Economy,Netherlands,Online Travel Agent,Return,2,3416.0,
+2023-02-11,Emirates,AMS-FRA,First,Turkey,GDS,Return,17,17753.0,77.6
+2022-07-23,British Airways,AMS-MAD,Economy,Spain,Direct,One Way,41,,40.9
+2022-03-19,EasyJet,AMS-IST,Economy,Spain,GDS,Return,12,498.0,56.3
+2023-08-30,Ryanair,AMS-DXB,Business,Spain,Online Travel Agent,Return,35,6700.0,52.1
+2023-12-09,Lufthansa,AMS-IST,Economy,Germany,GDS,One Way,43,1162.0,42.4
+2023-10-05,Lufthansa,AMS-JFK,Business,Netherlands,Online Travel Agent,Return,1,16184.0,67.8
+06/09/2022,Air France,AMS-JFK,Business,UK,Corporate,Return,45,8300.0,50.5
+2022-04-15,Air France,AMS-CPH,Economy,Netherlands,Online Travel Agent,Return,15,1066.0,83.1
+2023-12-15,KLM,AMS-DXB,Economy,Netherlands,GDS,One Way,26,173.0,89.2
+2022-11-05,British Airways,AMS-MAD,Business,Italy,GDS,Return,37,2380.0,71.6
+2023-12-02,Air France,AMS-JFK,Economy,Germany,Direct,One Way,21,3531.0,96.9
+2023-09-07,Emirates,AMS-IST,Economy,Germany,GDS,Return,49,222.0,66.1
+2022-05-04,British Airways,AMS-LHR,Economy,Netherlands,Direct,Return,31,935.0,69.8
+2023-08-03,EasyJet,AMS-DXB,Economy,UK,Corporate,Return,25,,97.4
+2022-02-12,Air France,AMS-FRA,Economy,Netherlands,GDS,One Way,23,,53.4
+2022-12-22,Air France,AMS-MAD,Economy,Netherlands,Online Travel Agent,Return,24,2303.0,94.7
+2023-06-30,Vueling,AMS-DXB,Economy,Netherlands,Corporate,Return,38,4052.0,42.5
+2023-03-15,SAS,AMS-MAD,Economy,UK,Online Travel Agent,Return,28,1166.0,65.9
+2023-11-09,Ryanair,AMS-BCN,Economy,Netherlands,GDS,Return,21,3394.0,44.1
+2023-01-15,KLM,AMS-JFK,Economy,Italy,Online Travel Agent,Return,43,1399.0,82.3
+2022-03-12,SAS,AMS-CPH,Business,Turkey,Corporate,Return,18,6046.0,75.3
+2023-06-03,EasyJet,AMS-LHR,Economy,France,Direct,One Way,36,797.0,81.0
+2023-10-26,SAS,AMS-DXB,First,Netherlands,Direct,Return,35,2099.0,61.7
+2022-12-16,SAS,AMS-CDG,Economy,Netherlands,Corporate,One Way,45,4088.0,
+2022-01-13,Vueling,AMS-BCN,First,Netherlands,Direct,Return,9,23563.0,42.6
+2023-03-07,Lufthansa,AMS-BCN,Business,Netherlands,Direct,Return,38,13639.0,60.3
+2023-05-17,Vueling,AMS-BCN,,Netherlands,Online Travel Agent,One Way,30,2140.0,93.9
+2022-04-19,Air France,AMS-LHR,Economy,Netherlands,Online Travel Agent,One Way,44,4644.0,62.0
+2023-03-20,EasyJet,AMS-FCO,Economy,France,Online Travel Agent,Return,34,4133.0,88.2
+2023-01-06,Vueling,AMS-FRA,Business,Netherlands,Direct,Return,32,5339.0,88.9
+2023-10-13,EasyJet,AMS-CPH,Economy,Netherlands,GDS,One Way,3,2291.0,61.6
+2023-04-16,Ryanair,AMS-LHR,First,Netherlands,Corporate,Return,3,,76.7
+2023-12-26,Turkish Airlines,AMS-FRA,Economy,Italy,Online Travel Agent,Return,28,5218.0,
+2022-06-06,Emirates,AMS-DXB,Economy,Spain,Direct,Return,44,2558.0,46.0
+2023-03-22,Air France,AMS-FCO,Business,Netherlands,Direct,Return,15,10231.0,42.8
+2022-06-30,Turkish Airlines,AMS-FRA,Economy,UK,Corporate,Return,41,1227.0,73.7
+2023-06-19,Turkish Airlines,AMS-FCO,Economy,UK,GDS,One Way,23,5133.0,64.7
+2023-10-29,Ryanair,AMS-BCN,Business,Germany,Online Travel Agent,Return,40,6895.0,71.8
+2022-10-04,Vueling,AMS-FCO,Economy,Netherlands,Direct,One Way,11,199.0,70.2
+2023-09-23,KLM,AMS-BCN,Economy,Germany,Online Travel Agent,Return,48,460.0,60.3
+2023-07-06,Emirates,AMS-FCO,Economy,Germany,Corporate,Return,32,1795.0,79.3
+2023-05-11,Air France,AMS-CDG,Economy,France,GDS,One Way,36,2457.0,84.0
+2023-04-22,SAS,AMS-FCO,Economy,France,Direct,Return,33,2375.0,40.8
+2023-03-23,British Airways,AMS-DXB,Business,Netherlands,Corporate,One Way,24,12557.0,52.0
+2023-08-30,SAS,AMS-CDG,Economy,France,GDS,Return,39,1842.0,81.4
+2022-10-02,British Airways,AMS-FCO,Business,Netherlands,Direct,Return,34,,
+2022-11-27,KLM,AMS-JFK,Economy,Germany,Online Travel Agent,Return,28,1320.0,78.4
+2022-09-09,EasyJet,AMS-LHR,Economy,Netherlands,Online Travel Agent,One Way,37,2279.0,60.1
+2022-03-30,EasyJet,AMS-LHR,Economy,Italy,GDS,Return,7,3418.0,62.7
+2022-10-13,EasyJet,AMS-DXB,Economy,Netherlands,GDS,Return,4,2809.0,49.2
+2023-04-07,Turkish Airlines,AMS-DXB,Economy,Italy,GDS,Return,37,,55.0
+2022-09-07,Ryanair,AMS-MAD,Economy,Netherlands,GDS,One Way,1,2720.0,75.1
+2023-04-21,British Airways,AMS-JFK,Business,Germany,Online Travel Agent,One Way,1,5971.0,65.1
+2023-08-07,KLM,AMS-FRA,Economy,Netherlands,Corporate,One Way,47,4365.0,84.9
+2023-09-17,Emirates,AMS-DXB,Economy,France,Online Travel Agent,Return,20,3990.0,89.4
+2023-11-16,Air France,AMS-CPH,Economy,Italy,GDS,Return,19,1546.0,71.4
+24/01/2023,Turkish Airlines,AMS-MAD,Economy,,GDS,Return,29,1858.0,84.0
+2022-12-11,Air France,AMS-LHR,Economy,Germany,Online Travel Agent,Return,10,4192.0,57.8
+2022-01-30,Air France,AMS-FRA,Economy,UK,Online Travel Agent,Return,18,402.0,64.1
+2023-05-22,Vueling,AMS-FCO,First,Netherlands,GDS,One Way,28,13567.0,81.3
+2022-11-29,British Airways,AMS-JFK,Economy,Netherlands,GDS,One Way,35,3960.0,62.4
+2022-07-06,Emirates,AMS-DXB,Business,France,Online Travel Agent,One Way,43,7331.0,74.1
+2023-05-15,Emirates,AMS-FCO,Economy,Netherlands,Direct,Return,47,650.0,50.8
+2022-08-06,Turkish Airlines,AMS-DXB,Economy,Turkey,Direct,Return,31,3457.0,74.8
+2022-12-30,British Airways,AMS-IST,Business,Netherlands,GDS,Return,27,10045.0,
+2022-09-22,Ryanair,AMS-CDG,Economy,Germany,Direct,Return,11,2000.0,90.4
+2022-12-15,KLM,AMS-IST,Business,Italy,GDS,Return,49,8830.0,82.0
+2022-10-14,KLM,AMS-FRA,Economy,Netherlands,Direct,One Way,49,,83.3
+2023-09-03,EasyJet,AMS-MAD,Economy,Spain,Online Travel Agent,One Way,38,3137.0,72.4
+2023-12-20,Turkish Airlines,AMS-BCN,Economy,Netherlands,Direct,One Way,5,3852.0,73.9
+2022-10-10,Lufthansa,AMS-CPH,Business,France,Corporate,One Way,8,,47.8
+2023-07-24,Vueling,AMS-FRA,Economy,,GDS,One Way,34,891.0,65.7
+2022-01-11,Turkish Airlines,AMS-JFK,Economy,Germany,GDS,Return,48,1612.0,66.1
+2023-06-14,KLM,AMS-IST,Economy,Netherlands,Online Travel Agent,Return,12,1285.0,95.6
+2022-07-15,SAS,AMS-LHR,Economy,UK,GDS,Return,38,3214.0,65.0
+29/03/2022,Air France,AMS-CDG,Business,Spain,GDS,Return,1,,71.9
+2022-09-05,Ryanair,AMS-CDG,,Netherlands,Online Travel Agent,Return,31,9736.0,70.9
+2023-02-21,Lufthansa,AMS-IST,Business,Netherlands,Online Travel Agent,Return,4,,76.9
+2023-05-16,Ryanair,AMS-IST,Business,Netherlands,Direct,One Way,49,,83.4
+2023-07-23,Lufthansa,AMS-CDG,Economy,Netherlands,Online Travel Agent,One Way,45,1012.0,53.1
+2022-09-04,SAS,AMS-DXB,Business,Turkey,Corporate,Return,5,5655.0,70.7
+2023-12-09,Air France,AMS-CDG,Economy,Turkey,GDS,One Way,30,2757.0,87.9
+2023-05-03,Ryanair,AMS-CPH,Economy,Netherlands,Direct,Return,24,2405.0,66.9
+2023-10-24,Air France,AMS-MAD,Economy,UK,Corporate,Return,3,1969.0,
+30/12/2023,British Airways,AMS-FCO,Economy,Germany,GDS,Return,11,1557.0,78.0
+2023-05-18,SAS,AMS-IST,Business,Netherlands,GDS,Return,45,12916.0,87.8
+2023-04-04,Lufthansa,AMS-IST,Economy,Germany,Online Travel Agent,Return,4,3359.0,43.7
+2022-01-18,British Airways,AMS-CDG,Economy,Netherlands,Direct,One Way,26,3937.0,85.1
+2022-04-06,British Airways,AMS-FCO,Economy,France,Corporate,Return,27,5365.0,87.7
+2022-10-29,Ryanair,AMS-CPH,,Netherlands,GDS,Return,46,7512.0,66.8
+2022-08-15,Air France,AMS-BCN,Economy,UK,Online Travel Agent,Return,43,1095.0,97.0
+2023-02-19,Ryanair,AMS-JFK,Economy,Germany,GDS,One Way,27,2830.0,85.6
+2023-12-10,EasyJet,AMS-IST,Economy,Netherlands,GDS,One Way,42,2076.0,84.9
+2022-09-07,KLM,AMS-FCO,,France,GDS,Return,6,1201.0,83.4
+2022-11-10,Turkish Airlines,AMS-DXB,First,Netherlands,GDS,One Way,15,21731.0,48.7
+2023-11-11,Lufthansa,AMS-CPH,Business,Germany,Online Travel Agent,One Way,30,13043.0,52.6
+2023-08-19,Air France,AMS-CDG,Economy,UK,Direct,One Way,42,3687.0,66.9
+2023-01-13,Ryanair,AMS-FCO,Business,Italy,GDS,One Way,37,7096.0,55.3
+2023-04-30,KLM,AMS-JFK,,Netherlands,Direct,Return,37,12211.0,64.1
+2023-07-21,Ryanair,AMS-LHR,Economy,Netherlands,Online Travel Agent,Return,42,2476.0,91.5
+2023-06-28,Vueling,AMS-CPH,First,Germany,GDS,Return,37,22563.0,87.8
+2022-12-19,SAS,AMS-BCN,Economy,Netherlands,Direct,Return,35,2956.0,76.5
+2023-03-12,Turkish Airlines,AMS-FCO,Economy,Netherlands,Online Travel Agent,One Way,23,1927.0,89.8
+2023-07-18,Lufthansa,AMS-JFK,Economy,Turkey,GDS,Return,6,345.0,85.5
+2022-12-05,KLM,AMS-CPH,,Germany,Online Travel Agent,Return,4,3002.0,64.9
+2022-12-27,British Airways,AMS-CDG,Business,Netherlands,Direct,Return,18,4791.0,51.7
+2023-12-21,EasyJet,AMS-JFK,Business,Netherlands,Online Travel Agent,One Way,9,7306.0,69.8
+2023-04-10,Lufthansa,AMS-IST,Economy,Turkey,Corporate,One Way,49,756.0,82.7
+2022-10-05,British Airways,AMS-CDG,Economy,Netherlands,Online Travel Agent,Return,29,1398.0,65.3
+2022-11-10,Vueling,AMS-MAD,First,Netherlands,GDS,One Way,13,7146.0,78.7
+2022-09-15,Lufthansa,AMS-DXB,Economy,Spain,Corporate,Return,47,582.0,45.5
+2022-08-25,EasyJet,AMS-BCN,Business,Germany,Direct,Return,17,7285.0,83.4
+2022-05-04,EasyJet,AMS-JFK,Economy,UK,GDS,One Way,45,2776.0,87.1
+2022-07-17,Lufthansa,AMS-MAD,Economy,France,Online Travel Agent,Return,32,1149.0,81.0
+2022-11-20,SAS,AMS-CPH,Economy,France,Online Travel Agent,Return,48,,96.1
+2022-05-03,Lufthansa,AMS-CPH,Economy,Netherlands,Online Travel Agent,Return,22,1363.0,87.9
+2023-07-03,Emirates,AMS-IST,Economy,Spain,Direct,One Way,4,2280.0,92.4
+08/12/2023,KLM,AMS-FRA,Business,Turkey,GDS,One Way,5,6255.0,94.1
+2022-07-09,Ryanair,AMS-CPH,Economy,Netherlands,GDS,One Way,37,2752.0,86.5
+2022-07-16,Turkish Airlines,AMS-CPH,Business,Turkey,GDS,One Way,41,6887.0,79.1
+2022-08-10,EasyJet,AMS-FCO,Business,Germany,Direct,One Way,49,14910.0,40.3
+2023-05-11,Ryanair,AMS-CDG,Business,Netherlands,Online Travel Agent,Return,13,6643.0,67.0
+2022-10-11,Lufthansa,AMS-FCO,Economy,UK,Direct,Return,34,2725.0,73.1
+2023-08-27,Turkish Airlines,AMS-IST,Economy,Turkey,Direct,Return,45,3198.0,57.6
+2023-06-22,Ryanair,AMS-IST,Economy,France,Corporate,Return,22,3185.0,58.5
+2023-09-04,Vueling,AMS-FRA,Economy,Germany,GDS,One Way,23,4443.0,95.7
+2022-10-17,KLM,AMS-IST,Economy,Turkey,GDS,Return,3,3605.0,91.7
+2022-04-13,Lufthansa,AMS-BCN,Economy,Netherlands,Online Travel Agent,Return,42,2261.0,89.3
+2022-07-18,EasyJet,AMS-IST,Economy,Netherlands,Online Travel Agent,Return,34,2552.0,63.5
+2022-10-31,Emirates,AMS-CPH,Economy,Netherlands,Online Travel Agent,Return,32,3232.0,40.8
+2022-08-21,British Airways,AMS-DXB,Business,Italy,GDS,Return,45,12592.0,44.7
+2023-01-05,SAS,AMS-FRA,Economy,Netherlands,Direct,Return,49,266.0,58.1
+2022-07-03,British Airways,AMS-DXB,Economy,Spain,GDS,One Way,21,3041.0,40.9
+2022-11-06,Lufthansa,AMS-FRA,Business,UK,GDS,One Way,46,6463.0,41.0
+2022-01-15,Air France,AMS-MAD,Economy,Netherlands,GDS,Return,44,900.0,93.2
+2023-12-27,KLM,AMS-DXB,Business,France,Online Travel Agent,One Way,21,5245.0,81.0
+2023-07-01,Emirates,AMS-CPH,Economy,France,Corporate,One Way,44,1970.0,57.9
+2022-05-10,Ryanair,AMS-DXB,Business,Turkey,Direct,Return,11,14802.0,47.7
+2022-10-08,Ryanair,AMS-CPH,Economy,Netherlands,Online Travel Agent,One Way,39,3163.0,69.7
+2022-02-16,EasyJet,AMS-JFK,Economy,Netherlands,Online Travel Agent,Return,4,3308.0,40.3
+2022-02-25,Ryanair,AMS-DXB,,Netherlands,Online Travel Agent,Return,1,3144.0,94.4
+2023-07-21,Vueling,AMS-MAD,Economy,Netherlands,GDS,Return,28,3560.0,64.1
+2022-10-27,Ryanair,AMS-CDG,Economy,Netherlands,Online Travel Agent,Return,24,1159.0,63.3
+2023-12-16,British Airways,AMS-MAD,Business,France,Direct,Return,35,1564.0,
+2022-05-10,Emirates,AMS-FCO,Economy,Netherlands,Direct,Return,13,3014.0,44.0
+2023-10-16,Emirates,AMS-JFK,Economy,Spain,Corporate,Return,47,479.0,77.0
+2023-05-18,EasyJet,AMS-DXB,Economy,Netherlands,Online Travel Agent,One Way,34,2222.0,82.5
+16/04/2022,Air France,AMS-FCO,Economy,Netherlands,GDS,Return,11,2621.0,79.2
+2022-01-13,KLM,AMS-IST,Economy,Turkey,GDS,Return,36,2810.0,48.0
+2023-08-11,Vueling,AMS-BCN,First,UK,Direct,Return,17,21605.0,73.6
+2022-10-19,SAS,AMS-FRA,Economy,UK,Corporate,One Way,35,2891.0,73.0
+2023-04-26,Turkish Airlines,AMS-BCN,Business,Spain,Online Travel Agent,Return,18,3238.0,90.4
+2023-05-06,Lufthansa,AMS-BCN,Economy,Netherlands,Online Travel Agent,Return,40,2155.0,62.0
+2023-03-28,Turkish Airlines,AMS-JFK,Economy,Spain,GDS,Return,22,925.0,61.5
+2022-12-15,Emirates,AMS-LHR,Economy,UK,GDS,Return,24,3259.0,75.9
+2022-07-08,Emirates,AMS-CDG,,France,GDS,Return,19,4216.0,76.7
+2022-02-22,SAS,AMS-DXB,,Italy,GDS,Return,37,4642.0,67.2
+2022-09-16,SAS,AMS-CDG,Economy,France,Direct,One Way,39,2992.0,65.7
+2023-05-05,SAS,AMS-IST,Economy,Netherlands,GDS,One Way,21,3994.0,68.7
+2022-04-27,Lufthansa,AMS-CDG,Economy,UK,GDS,Return,8,290.0,89.9
+2022-03-08,Vueling,AMS-FRA,Economy,France,Online Travel Agent,Return,28,3902.0,66.7
+2023-02-15,Emirates,AMS-FRA,Business,Netherlands,Direct,Return,5,9575.0,94.5
+2023-05-19,British Airways,AMS-BCN,Business,Netherlands,GDS,Return,17,2777.0,69.2
+2022-03-17,Ryanair,AMS-DXB,Business,Spain,Online Travel Agent,Return,37,9220.0,95.1
+2023-08-14,EasyJet,AMS-FRA,First,Netherlands,Online Travel Agent,One Way,36,31168.0,88.3
+2023-10-07,SAS,AMS-IST,Economy,Spain,GDS,Return,19,3648.0,61.0
+2023-12-04,EasyJet,AMS-LHR,Economy,Germany,GDS,Return,27,2921.0,90.1
+2022-02-24,KLM,AMS-BCN,Economy,Italy,Online Travel Agent,Return,34,2908.0,46.4
+2022-06-05,KLM,AMS-CDG,Economy,Italy,Online Travel Agent,One Way,11,4390.0,93.7
+2022-06-02,Air France,AMS-BCN,Economy,Netherlands,Corporate,Return,45,2118.0,76.6
+2023-07-31,KLM,AMS-IST,Economy,UK,Direct,Return,47,3430.0,43.2
+2022-11-08,KLM,AMS-BCN,Economy,France,GDS,Return,12,3095.0,77.4
+2022-03-29,EasyJet,AMS-IST,,Netherlands,Online Travel Agent,Return,21,2945.0,96.5
+2022-09-12,Emirates,AMS-JFK,Economy,Spain,GDS,One Way,11,1851.0,
+2022-05-02,Ryanair,AMS-FRA,Economy,Netherlands,Online Travel Agent,One Way,39,1341.0,72.2
+2023-07-26,Emirates,AMS-IST,Economy,Netherlands,GDS,Return,28,3180.0,83.4
+2023-03-03,Turkish Airlines,AMS-IST,Economy,Netherlands,Direct,One Way,5,,87.0
+2023-09-13,EasyJet,AMS-FRA,Business,Germany,GDS,One Way,17,11664.0,64.0
+2023-09-03,KLM,AMS-DXB,Economy,Netherlands,Online Travel Agent,One Way,20,2417.0,51.8
+2023-09-26,Emirates,AMS-CPH,Economy,Germany,Online Travel Agent,Return,41,4700.0,42.5
+2022-08-20,Ryanair,AMS-MAD,Economy,Netherlands,GDS,Return,46,4579.0,73.6
+2023-06-20,Air France,AMS-CPH,Economy,Netherlands,Online Travel Agent,Return,12,2805.0,66.3
+2023-01-25,British Airways,AMS-CPH,Business,UK,Corporate,One Way,6,11326.0,95.0
+2023-04-07,Emirates,AMS-MAD,Economy,Netherlands,GDS,Return,17,1734.0,43.5
+2023-03-30,Air France,AMS-JFK,Economy,Germany,Online Travel Agent,Return,19,331.0,79.8
+2022-11-01,Vueling,AMS-LHR,Economy,France,Direct,One Way,26,3594.0,41.4
+2023-08-26,Emirates,AMS-FRA,Economy,,GDS,Return,48,3675.0,49.9
+2023-03-16,British Airways,AMS-DXB,Economy,Netherlands,Corporate,One Way,44,778.0,66.3
+2022-11-09,Ryanair,AMS-IST,Business,Netherlands,Online Travel Agent,Return,44,2560.0,66.4
+2023-08-06,Vueling,AMS-BCN,Economy,Netherlands,Direct,One Way,32,2031.0,79.8
+2023-09-28,Ryanair,AMS-BCN,First,Netherlands,GDS,Return,6,12415.0,92.8
+2022-03-03,KLM,AMS-CPH,,Netherlands,GDS,Return,36,,77.1
+2023-09-17,Ryanair,AMS-IST,Economy,France,Online Travel Agent,One Way,38,3714.0,95.3
+2022-04-12,EasyJet,AMS-DXB,Economy,Netherlands,GDS,Return,11,542.0,91.1
+2022-08-01,Vueling,AMS-IST,Economy,Netherlands,Online Travel Agent,Return,33,556.0,73.9
+2023-10-03,KLM,AMS-JFK,Business,,GDS,Return,24,10308.0,88.4
+2022-08-05,KLM,AMS-DXB,Economy,Germany,GDS,One Way,23,955.0,77.3
+2022-09-28,Turkish Airlines,AMS-IST,Economy,Spain,Online Travel Agent,Return,15,1663.0,44.6
+2023-11-08,Turkish Airlines,AMS-CPH,Economy,Netherlands,Corporate,One Way,27,,83.0
+2022-03-25,Ryanair,AMS-FRA,Business,Netherlands,GDS,Return,11,15011.0,45.5
+2022-06-10,British Airways,AMS-CDG,Economy,France,GDS,Return,17,2034.0,74.5
+2022-09-03,EasyJet,AMS-DXB,Business,Germany,Direct,Return,14,9619.0,
+2022-06-27,EasyJet,AMS-CDG,Business,UK,Direct,Return,27,13598.0,43.9
+2023-07-20,Lufthansa,AMS-CDG,Business,,Corporate,Return,18,11055.0,53.4
+2022-03-18,EasyJet,AMS-JFK,,France,GDS,Return,28,4929.0,93.1
+2022-06-10,EasyJet,AMS-MAD,Economy,UK,Corporate,Return,47,3402.0,75.7
+2022-01-03,Lufthansa,AMS-FCO,Economy,Netherlands,Direct,Return,47,2422.0,54.3
+2023-02-23,SAS,AMS-JFK,Economy,Netherlands,GDS,Return,4,3474.0,
+2023-04-07,Emirates,AMS-CDG,Economy,Spain,GDS,Return,7,1005.0,74.6
+07/12/2023,EasyJet,AMS-JFK,Economy,Netherlands,Online Travel Agent,Return,45,2969.0,
+2023-09-01,EasyJet,AMS-FRA,Economy,Turkey,Online Travel Agent,Return,35,,96.6
+2023-04-27,Lufthansa,AMS-MAD,Business,Netherlands,Corporate,Return,48,13854.0,79.6
+2022-10-26,Lufthansa,AMS-IST,Economy,UK,GDS,One Way,9,3269.0,61.8
+2022-02-03,EasyJet,AMS-CDG,First,Germany,GDS,One Way,8,3084.0,86.4
+2022-08-26,Air France,AMS-CDG,Economy,Netherlands,Online Travel Agent,Return,45,1962.0,91.3
+2022-10-23,Vueling,AMS-MAD,Economy,Netherlands,GDS,One Way,17,4416.0,47.3
+2023-12-25,EasyJet,AMS-LHR,First,France,GDS,Return,17,10344.0,
+2022-10-17,KLM,AMS-CPH,Economy,Netherlands,Corporate,One Way,49,1781.0,52.5
+2023-12-21,Vueling,AMS-DXB,Business,Netherlands,Direct,Return,33,11989.0,80.1
+2023-04-10,Air France,AMS-DXB,Economy,Turkey,GDS,Return,32,1272.0,75.0
+2022-03-14,KLM,AMS-FCO,Business,France,GDS,Return,8,7374.0,75.9
+2023-12-05,EasyJet,AMS-JFK,Business,Turkey,Corporate,One Way,19,6477.0,94.6
+2022-08-28,Emirates,AMS-MAD,Economy,Germany,Online Travel Agent,Return,38,1377.0,85.0
+2022-09-28,KLM,AMS-IST,Economy,Netherlands,Online Travel Agent,Return,3,985.0,47.4
+2023-10-03,Turkish Airlines,AMS-MAD,Economy,Netherlands,Online Travel Agent,Return,5,3326.0,60.2
+2023-08-27,British Airways,AMS-FRA,Economy,Spain,Online Travel Agent,One Way,13,2624.0,65.3
+2023-11-09,Turkish Airlines,AMS-CDG,Economy,Netherlands,GDS,One Way,47,2635.0,63.0
+2022-07-22,Emirates,AMS-LHR,Economy,Netherlands,Corporate,Return,46,2576.0,78.8
+2023-04-30,Vueling,AMS-CPH,First,Germany,Direct,Return,20,15921.0,64.1
+2022-07-06,Ryanair,AMS-FRA,Economy,Italy,Direct,Return,46,4717.0,49.7
+2023-10-05,SAS,AMS-FRA,Business,Italy,GDS,One Way,38,5277.0,76.8
+2023-07-22,KLM,AMS-LHR,Economy,UK,Direct,Return,16,4554.0,51.9
+2023-06-20,Air France,AMS-CPH,Economy,Netherlands,Online Travel Agent,Return,12,2805.0,66.3
+2022-12-11,Lufthansa,AMS-JFK,Economy,Turkey,Corporate,Return,29,2195.0,80.5
+2023-01-30,Air France,AMS-CDG,Economy,France,Direct,One Way,36,963.0,64.1
+2022-08-19,Emirates,AMS-FCO,Business,Netherlands,Online Travel Agent,Return,35,12027.0,70.8
+2022-03-02,Ryanair,AMS-JFK,Economy,Netherlands,Direct,One Way,5,5312.0,95.7
+2022-11-27,KLM,AMS-JFK,Economy,Germany,Online Travel Agent,Return,28,1320.0,78.4
+2023-12-07,EasyJet,AMS-JFK,Economy,Netherlands,Online Travel Agent,Return,45,2969.0,
+2022-03-04,Emirates,AMS-CPH,Economy,Netherlands,Online Travel Agent,One Way,24,3092.0,97.7
+2022-09-04,Air France,AMS-JFK,,,Online Travel Agent,Return,49,2122.0,44.4
+2022-06-08,Turkish Airlines,AMS-CDG,Economy,UK,Direct,One Way,41,,62.5
+2023-07-07,Ryanair,AMS-CDG,Economy,Netherlands,Online Travel Agent,Return,15,1257.0,94.0
+2023-11-17,EasyJet,AMS-MAD,Economy,Netherlands,Direct,One Way,27,1695.0,43.5
+2023-09-03,Turkish Airlines,AMS-LHR,,Turkey,GDS,Return,15,3736.0,44.9
+2022-07-03,KLM,AMS-BCN,Economy,Italy,Online Travel Agent,One Way,22,4306.0,75.7
+2023-03-06,EasyJet,AMS-CDG,Business,Netherlands,GDS,One Way,35,11313.0,79.4
+2023-07-05,Turkish Airlines,AMS-JFK,Economy,Turkey,GDS,One Way,42,4883.0,66.7
